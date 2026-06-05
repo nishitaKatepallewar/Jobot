@@ -251,7 +251,7 @@ function buildLLMMessage(scored, pending) {
     for (const i of strong) {
       msg += `${scoreToEmoji(i.score)} *${esc(i.company)}* — ${esc(i.title)}\n`;
       msg += `   ${i.score}/5 | ${esc(i.reason)} | ${esc(i.location || '')}\n`;
-      msg += `   🔗 ${i.url}\n\n`;
+      msg += `   🔗 \`${esc(i.url)}\`\n\n`;
     }
   }
   if (decent.length > 0) {
