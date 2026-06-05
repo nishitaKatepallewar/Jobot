@@ -91,7 +91,7 @@ function buildLLMPrompt(profile, items) {
     ``,
     `## Candidate Profile`,
     `Target roles: Software Engineer (New Grad ONLY), Forward Deployed Engineer (New Grad ONLY), Applied AI Engineer (New Grad ONLY), AI/ML Engineer (New Grad ONLY), Research Engineer (New Grad ONLY), Backend Engineer (New Grad ONLY), Full Stack Engineer (New Grad ONLY)`,
-    `Level restriction: SEEKING NEW GRAD / ENTRY LEVEL ROLES ONLY — Not open to Senior, Staff, Lead, Principal, Manager, Architect, or any role requiring 2+ years of experience`,
+    `Level restriction: Assume new-grad eligible by default. Only mark as requiring experience if the JD explicitly mentions "years of experience", "senior", "staff", "lead", "principal", "manager", or "architect". Absence of seniority signals means new grad OK.`,
     `Graduation: May 2027 (BTech Computer Engineering, Cummins College, Pune)`,
     `Experience: Google AI Infrastructure Intern (Summer 2025) — 9,500 LOC; Google Play Intern (Summer 2026)`,
     `Skills: Python, Java, C++, TypeScript, JavaScript, Elixir, React, Angular, SQL, PostgreSQL`,
