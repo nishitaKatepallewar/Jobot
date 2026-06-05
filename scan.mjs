@@ -30,6 +30,7 @@
 import { readFileSync, writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync } from 'fs';
 import { pathToFileURL, fileURLToPath } from 'url';
 import path from 'path';
+import { createHash } from 'crypto';
 import yaml from 'js-yaml';
 
 import { makeHttpCtx } from './providers/_http.mjs';
@@ -171,6 +172,22 @@ export function buildLocationFilter(locationFilter) {
     if (allow.length === 0) return true;
     return allow.some(k => lower.includes(k));
   };
+}
+
+// ── Text helpers ────────────────────────────────────────────────────
+
+function stripHtml(html) {
+  if (!html || typeof html !== 'string') return '';
+  return html
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 // ── Dedup ───────────────────────────────────────────────────────────
@@ -501,6 +518,19 @@ async function main() {
     expiredOffers = result.expired;
     droppedOffers = result.dropped;
     invalidOffers = result.invalid;
+  }
+
+  // 5.75. Save job descriptions to jds/
+  if (!dryRun && verifiedOffers.length > 0) {
+    mkdirSync('jds', { recursive: true });
+    for (const offer of verifiedOffers) {
+      if (!offer.description) continue;
+      const hash = createHash('md5').update(offer.url).digest('hex');
+      const jdPath = `jds/${hash}.md`;
+      if (existsSync(jdPath)) continue;
+      const jdContent = `# ${offer.company} — ${offer.title}\n\n${stripHtml(offer.description)}\n\n<!-- source: ${offer.url} -->`;
+      writeFileSync(jdPath, jdContent, 'utf-8');
+    }
   }
 
   // 6. Write results

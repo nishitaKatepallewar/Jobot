@@ -51,6 +51,7 @@ export default {
           url: j.jobUrl || '',
           company: entry.name,
           location: j.location || '',
+          description: j.descriptionPlain || (j.jobDescription || ''),
         }));
       } catch (e) {
         lastErr = e;

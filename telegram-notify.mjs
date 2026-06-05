@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 
 import { readFileSync, existsSync } from 'fs';
+import { createHash } from 'crypto';
 import dotenv from 'dotenv';
 
 dotenv.config();
 
+const DRY_RUN = process.argv.includes('--dry-run');
 const TELEGRAM_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY;
@@ -97,9 +99,10 @@ function buildLLMPrompt(profile, items) {
     `You are a job match scorer for a candidate.`,
     ``,
     `## Candidate Profile`,
-    `Target roles: Software Engineer (New Grad), Forward Deployed Engineer, Applied AI Engineer, AI/ML Engineer, Research Engineer, Backend Engineer, Full Stack Engineer`,
+    `Target roles: Software Engineer (New Grad ONLY), Forward Deployed Engineer (New Grad ONLY), Applied AI Engineer (New Grad ONLY), AI/ML Engineer (New Grad ONLY), Research Engineer (New Grad ONLY), Backend Engineer (New Grad ONLY), Full Stack Engineer (New Grad ONLY)`,
+    `Level restriction: SEEKING NEW GRAD / ENTRY LEVEL ROLES ONLY — Not open to Senior, Staff, Lead, Principal, Manager, Architect, or any role requiring 2+ years of experience`,
     `Graduation: May 2027 (BTech Computer Engineering, Cummins College, Pune)`,
-    `Experience: Google AI Infrastructure Intern (Summer 2025), 9500 LOC`,
+    `Experience: Google AI Infrastructure Intern (Summer 2025) — 9,500 LOC; Google Play Intern (Summer 2026)`,
     `Skills: Python, Java, C++, TypeScript, JavaScript, Elixir, React, Angular, SQL, PostgreSQL`,
     `Projects: Vexa (AI 3D QC), Cloakr (LLVM obfuscation), Alias (PII redaction)`,
     `Visa: Needs sponsorship for US/EU/UK/SG/AUS/CA. Authorized: India, UAE`,
@@ -117,6 +120,16 @@ function buildLLMPrompt(profile, items) {
   for (const item of items) {
     context.push(`- ${item.title} @ ${item.company} (${item.location || 'location unknown'})`);
     context.push(`  URL: ${item.url}`);
+    const hash = createHash('md5').update(item.url).digest('hex');
+    const jdPath = `${JDS_DIR}/${hash}.md`;
+    try {
+      if (existsSync(jdPath)) {
+        const jdText = readFileSync(jdPath, 'utf-8').slice(0, 1500);
+        context.push(`  Description: ${jdText.replace(/\n/g, ' ').trim()}`);
+      }
+    } catch {
+      // JD file not available — skip
+    }
   }
   context.push('');
   context.push('JSON lines (one per role, same order):');
@@ -176,6 +189,7 @@ function tryParseJSON(s) {
 // ── Report URL extraction ──────────────────────────────────────
 
 const REPORTS_DIR = 'reports';
+const JDS_DIR = 'jds';
 
 function reportPathFromCol(reportCol) {
   const m = reportCol.match(/\]\(\.\.\/reports\/([^)]+)\)/);
@@ -315,6 +329,17 @@ async function sendTelegram(message) {
 // ── Main ───────────────────────────────────────────────────────
 
 async function main() {
+  if (DRY_RUN) {
+    const newItems = readNewScanItems();
+    if (newItems.length === 0) {
+      console.log('No new scan items found.');
+      return;
+    }
+    const prompt = buildLLMPrompt(readProfile(), newItems);
+    console.log(prompt);
+    return;
+  }
+
   if (!TELEGRAM_TOKEN || !TELEGRAM_CHAT_ID) {
     console.error('TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set');
     process.exit(1);
