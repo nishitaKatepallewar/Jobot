@@ -222,7 +222,7 @@ function buildTrackerMessage(today) {
       const fullScore = e.score.endsWith('/5') ? e.score : `${e.score}/5`;
       const url = reportPathFromCol(e.report) ? applyUrlFromReport(reportPathFromCol(e.report)) : null;
       msg += `${scoreToEmoji(parseScore(e.score))} *${esc(e.company)}* — ${esc(e.role)}\n   ${fullScore} | ${esc(e.notes)}\n`;
-      if (url) msg += `   🔗 ${esc(url)}\n`;
+      if (url) msg += `   🔗 <${url}>\n`;
       msg += '\n';
     }
   }
@@ -265,7 +265,7 @@ function buildLLMMessage(scored, pending) {
     for (const i of strong) {
       msg += `${scoreToEmoji(i.score)} *${esc(i.company)}* — ${esc(i.title)}\n`;
       msg += `   ${i.score}/5 | ${esc(i.reason)} | ${esc(i.location || '')}\n`;
-      msg += `   🔗 \`${esc(i.url)}\`\n\n`;
+      msg += `   🔗 <${i.url}>\n\n`;
     }
   }
   if (decent.length > 0) {
