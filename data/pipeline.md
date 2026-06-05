@@ -81,3 +81,6 @@
 
 - [ ] https://sumup.com/careers/positions/8354979002?gh_jid=8354979002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8032092002?gh_jid=8032092002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://sumup.com/careers/positions/8354978002?gh_jid=8354978002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8032091002?gh_jid=8032091002 | SumUp | Commercial Terrain - Indépendant (Freelance)
