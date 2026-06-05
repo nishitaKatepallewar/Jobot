@@ -115,7 +115,7 @@ function buildLLMPrompt(profile, items) {
     const jdPath = `${JDS_DIR}/${hash}.md`;
     try {
       if (existsSync(jdPath)) {
-        const jdText = readFileSync(jdPath, 'utf-8').slice(0, 1500);
+        const jdText = readFileSync(jdPath, 'utf-8').slice(0, 3000);
         context.push(`  Description: ${jdText.replace(/\n/g, ' ').trim()}`);
       }
     } catch {
