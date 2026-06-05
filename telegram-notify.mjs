@@ -25,15 +25,6 @@ function parseScore(s) {
   return parseFloat(s) || 0;
 }
 
-function scoreToEmoji(s) {
-  if (s >= 4.5) return '⭐⭐⭐';
-  if (s >= 4.0) return '⭐⭐';
-  if (s >= 3.5) return '⭐';
-  if (s >= 3.0) return '🟢';
-  if (s >= 2.5) return '🟡';
-  return '⚪';
-}
-
 // ── Read sources of truth ──────────────────────────────────────
 
 function readProfile() {
@@ -208,7 +199,7 @@ function applyUrlFromReport(reportPath) {
 
 function buildTrackerMessage(today) {
   const { pending } = parsePipeline();
-  let msg = `🤖 *Career-Ops Daily — ${new Date().toISOString().slice(0, 10)}*\n\n`;
+  let msg = `*Career-Ops Daily — ${new Date().toISOString().slice(0, 10)}*\n\n`;
 
   const sortByScore = (a, b) => parseScore(b.score) - parseScore(a.score);
   const strong = today.filter(e => parseScore(e.score) >= 3.5).sort(sortByScore);
@@ -217,43 +208,43 @@ function buildTrackerMessage(today) {
   const weak = today.filter(e => parseScore(e.score) < 2.5 && e.status !== 'SKIP').sort(sortByScore);
 
   if (strong.length > 0) {
-    msg += `🔥 *Strong Matches (≥ 3.5)* — ${strong.length}\n`;
+    msg += `*Strong Matches (≥ 3.5)* — ${strong.length}\n`;
     for (const e of strong) {
-      const fullScore = e.score.endsWith('/5') ? e.score : `${e.score}/5`;
+      const score = parseScore(e.score).toFixed(1);
       const url = reportPathFromCol(e.report) ? applyUrlFromReport(reportPathFromCol(e.report)) : null;
-      msg += `${scoreToEmoji(parseScore(e.score))} *${esc(e.company)}* — ${esc(e.role)}\n   ${fullScore} | ${esc(e.notes)}\n`;
-      if (url) msg += `   🔗 <${url}>\n`;
+      msg += `${score} ${esc(e.company)} — ${esc(e.role)}\n    ${esc(e.notes)}\n`;
+      if (url) msg += `    [View](${url})\n`;
       msg += '\n';
     }
   }
   if (decent.length > 0) {
-    msg += `👀 *Worth a Look (2.5–3.4)* — ${decent.length}\n`;
+    msg += `*Worth a Look (2.5–3.4)* — ${decent.length}\n`;
     for (const e of decent) {
-      const fullScore = e.score.endsWith('/5') ? e.score : `${e.score}/5`;
-      msg += `• *${esc(e.company)}* — ${esc(e.role)} — ${fullScore}\n`;
+      const score = parseScore(e.score).toFixed(1);
+      msg += `${score} ${esc(e.company)} — ${esc(e.role)}\n`;
     }
     msg += '\n';
   }
   if (skipped.length > 0) {
-    msg += `❌ *Skipped* — ${skipped.length}\n`;
+    msg += `*Skipped* — ${skipped.length}\n`;
     for (const e of skipped) {
-      const fullScore = e.score.endsWith('/5') ? e.score : `${e.score}/5`;
-      msg += `• ${esc(e.company)} — ${esc(e.role)} — ${fullScore}\n`;
+      const score = parseScore(e.score).toFixed(1);
+      msg += `${score} ${esc(e.company)} — ${esc(e.role)}\n`;
     }
     msg += '\n';
   }
   if (weak.length > 0) {
-    msg += `⚪ *Below Threshold (< 2.5)* — ${weak.length}\n\n`;
+    msg += `*Below Threshold (< 2.5)* — ${weak.length}\n\n`;
   }
-  if (pending > 0) msg += `📦 *${pending} role(s) pending* in pipeline.\n`;
-  msg += `📊 *${today.length} evaluated today*, ${today[0]?.date || ''}\n`;
+  if (pending > 0) msg += `*${pending} roles pending* in pipeline.\n`;
+  msg += `*${today.length} evaluated today* — ${today[0]?.date || ''}\n`;
 
   return msg;
 }
 
 function buildLLMMessage(scored, pending) {
-  let msg = `🤖 *Career-Ops Scan — ${new Date().toISOString().slice(0, 10)}*\n\n`;
-  msg += `📦 *${scored.length} new role(s) found*\n\n`;
+  let msg = `*Career-Ops Scan — ${new Date().toISOString().slice(0, 10)}*\n\n`;
+  msg += `${scored.length} new roles found\n\n`;
 
   const sorted = [...scored].sort((a, b) => b.score - a.score);
   const strong = sorted.filter(i => i.score >= 3.5);
@@ -261,24 +252,24 @@ function buildLLMMessage(scored, pending) {
   const weak = sorted.filter(i => i.score < 2.5);
 
   if (strong.length > 0) {
-    msg += `🔥 *Strong Matches (≥ 3.5)* — ${strong.length}\n`;
+    msg += `*Strong Matches (≥ 3.5)* — ${strong.length}\n`;
     for (const i of strong) {
-      msg += `${scoreToEmoji(i.score)} *${esc(i.company)}* — ${esc(i.title)}\n`;
-      msg += `   ${i.score}/5 | ${esc(i.reason)} | ${esc(i.location || '')}\n`;
-      msg += `   🔗 <${i.url}>\n\n`;
+      msg += `${i.score.toFixed(1)} ${esc(i.company)} — ${esc(i.title)}\n`;
+      msg += `    ${esc(i.location || '—')} — ${esc(i.reason)}\n`;
+      msg += `    [Apply](${i.url})\n\n`;
     }
   }
   if (decent.length > 0) {
-    msg += `👀 *Worth a Look (2.5–3.4)* — ${decent.length}\n`;
+    msg += `*Worth a Look (2.5–3.4)* — ${decent.length}\n`;
     for (const i of decent) {
-      msg += `• *${esc(i.company)}* — ${esc(i.title)} — ${i.score}/5\n`;
+      msg += `${i.score.toFixed(1)} ${esc(i.company)} — ${esc(i.title)}\n`;
     }
     msg += '\n';
   }
   if (weak.length > 0) {
-    msg += `❌ *Below 2.5* — ${weak.length} (not a fit)\n\n`;
+    msg += `*Below 2.5* — ${weak.length}\n\n`;
   }
-  if (pending > 0) msg += `📦 *${pending} role(s) still pending* in pipeline.\n`;
+  if (pending > 0) msg += `*${pending} roles pending* in pipeline.\n`;
   msg += '\n_Run deep evaluation for any role above._';
 
   return msg;
@@ -358,8 +349,8 @@ async function main() {
   if (newItems.length === 0) {
     const total = existsSync(TRACKER_PATH) ? readFileSync(TRACKER_PATH, 'utf-8').split('\n').filter(l => l.trim().startsWith('|') && !l.includes('| # |')).length : 0;
     const { pending } = parsePipeline();
-    let msg = `🤖 *Career-Ops Daily — ${new Date().toISOString().slice(0, 10)}*\n\n_No new roles or evaluations today._\n\n📊 *${total} total roles* tracked.`;
-    if (pending > 0) msg += `\n📦 *${pending} pending* in pipeline.`;
+    let msg = `*Career-Ops Daily — ${new Date().toISOString().slice(0, 10)}*\n\n_No new roles or evaluations today._\n\n*${total} total roles* tracked.`;
+    if (pending > 0) msg += `\n*${pending} pending* in pipeline.`;
     await sendTelegram(msg);
     return;
   }
