@@ -84,3 +84,8 @@
 
 - [ ] https://sumup.com/careers/positions/8354978002?gh_jid=8354978002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8032091002?gh_jid=8032091002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004 | Figma | Marketing Engineer, AI Deployment
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f | ElevenLabs | Forward Deployed Engineering Recruiter
+- [ ] https://sumup.com/careers/positions/8354976002?gh_jid=8354976002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8032073002?gh_jid=8032073002 | SumUp | Commercial Terrain - Indépendant (Freelance)
