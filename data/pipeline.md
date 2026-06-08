@@ -92,3 +92,9 @@
 
 - [ ] https://sumup.com/careers/positions/8354974002?gh_jid=8354974002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8370118002?gh_jid=8370118002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4684808005 | Scale AI | SME, Support Systems Specialist
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4703527005 | Scale AI | Software Engineer
+- [ ] https://sumup.com/careers/positions/8354975002?gh_jid=8354975002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8425643002?gh_jid=8425643002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/qonto/49b6e7a1-e687-48b8-b00d-ebf2c5b74b81 | Qonto | Spontaneous Application - Product Engineering (Backend / Web / Mobile)
