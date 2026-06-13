@@ -152,3 +152,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8000664?gh_jid=8000664 | HelloFresh | Brand Marketing Associate - Youfoodz
 - [ ] https://careers.hellofresh.com/global/en/job/7963016?gh_jid=7963016 | HelloFresh | Warehouse Associate II
 - [ ] https://jobs.ashbyhq.com/faculty/7a6e49b5-3f14-4d23-9abe-ec285ce7ee2e | Faculty | Machine Learning Engineer
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701920005 | Razorpay | Associate Technical Consultant 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255853008 | Anthropic | IT Systems Engineer, Client Platform Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8568063002 | Databricks | Delivery Solutions Architect - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8486738002 | Databricks | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8589834002 | Databricks | Specialist Solutions Architect - GCP Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking)
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6018566004 | Boomi | Field Engineer - Data Integration & AI
+- [ ] https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4 | Lakera | Solutions Engineer (Amsterdam, Netherlands)
+- [ ] https://sumup.com/careers/positions/7988613002?gh_jid=7988613002 | SumUp | Commercial Terrain - Indépendant (Freelance)
