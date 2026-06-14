@@ -162,3 +162,5 @@
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6018566004 | Boomi | Field Engineer - Data Integration & AI
 - [ ] https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4 | Lakera | Solutions Engineer (Amsterdam, Netherlands)
 - [ ] https://sumup.com/careers/positions/7988613002?gh_jid=7988613002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://sumup.com/careers/positions/7988604002?gh_jid=7988604002 | SumUp | Commercial Terrain - Indépendant (Freelance)
