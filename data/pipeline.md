@@ -164,3 +164,9 @@
 - [ ] https://sumup.com/careers/positions/7988613002?gh_jid=7988613002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
 - [ ] https://sumup.com/careers/positions/7988604002?gh_jid=7988604002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4688063005 | Razorpay | AI Builder
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002 | Databricks | Forward Deployed Engineer - Emerging Enterprise & DNB
+- [ ] https://n26.com/en-eu/careers/positions/7992076?gh_jid=7992076 | N26 | Complaints Legal Analyst (German Market)
+- [ ] https://careers.hellofresh.com/global/en/job/8007182?gh_jid=8007182 | HelloFresh | Multi Skilled Maintenance Engineer
+- [ ] https://sumup.com/careers/positions/7875347002?gh_jid=7875347002 | SumUp | Commercial Terrain - Indépendant (Freelance)
