@@ -170,3 +170,16 @@
 - [ ] https://n26.com/en-eu/careers/positions/7992076?gh_jid=7992076 | N26 | Complaints Legal Analyst (German Market)
 - [ ] https://careers.hellofresh.com/global/en/job/8007182?gh_jid=8007182 | HelloFresh | Multi Skilled Maintenance Engineer
 - [ ] https://sumup.com/careers/positions/7875347002?gh_jid=7875347002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051 | Coinbase | Software Engineer, EAA Integrations
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4706401005 | Razorpay | Associate, AEO
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699216005 | Razorpay | Associate Technical Consultant
+- [ ] https://jobs.ashbyhq.com/deepgram/c819e26b-28a4-4373-b50f-272224e36f80 | Deepgram | Associate General Counsel (Product and Research)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002 | Databricks | Specialist Solutions Architect - AI/ML
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations
+- [ ] https://helsing.ai/jobs/4782364101?gh_jid=4782364101 | Helsing | Systems Architect - Electronic Warfare
+- [ ] https://n26.com/en-eu/careers/positions/8000161?gh_jid=8000161 | N26 | Complaints Legal Analyst (Spanish Market) - Maternity Cover 
+- [ ] https://careers.hellofresh.com/global/en/job/7792121?gh_jid=7792121 | HelloFresh | Maintenance Technician III 
+- [ ] https://sumup.com/careers/positions/7988602002?gh_jid=7988602002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/faculty/02810d92-1349-46df-818b-344e033c01ca | Faculty | Test Position (Website Maintenance) 
