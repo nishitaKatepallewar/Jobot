@@ -183,3 +183,11 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7792121?gh_jid=7792121 | HelloFresh | Maintenance Technician III 
 - [ ] https://sumup.com/careers/positions/7988602002?gh_jid=7988602002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/faculty/02810d92-1349-46df-818b-344e033c01ca | Faculty | Test Position (Website Maintenance) 
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002 | Databricks | Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002 | Databricks | Specialist Solutions Architect - AI/ML
+- [ ] https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f | Sierra | Forward Deployed Infrastructure Engineer 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706392005 | Glean | Solutions Engineer, DACH
+- [ ] https://careers.hellofresh.com/global/en/job/8012272?gh_jid=8012272 | HelloFresh | Supply Chain Analyst
+- [ ] https://jobs.lever.co/pigment/a204cd46-bdae-4a7b-8c79-814432fcaf21 | Pigment | AI Product Designer
+- [ ] https://sumup.com/careers/positions/8468196002?gh_jid=8468196002 | SumUp | Commercial Terrain - Indépendant (Freelance)
