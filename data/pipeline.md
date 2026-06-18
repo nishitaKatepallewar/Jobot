@@ -191,3 +191,14 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8012272?gh_jid=8012272 | HelloFresh | Supply Chain Analyst
 - [ ] https://jobs.lever.co/pigment/a204cd46-bdae-4a7b-8c79-814432fcaf21 | Pigment | AI Product Designer
 - [ ] https://sumup.com/careers/positions/8468196002?gh_jid=8468196002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582459002 | Databricks | Strategy & Execution AI Specialist
+- [ ] https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e | Cohere | Data Annotation Specialist, Software Engineering
+- [ ] https://jobs.ashbyhq.com/klue/bb4d8682-4a8d-4d3d-9d96-940bfb9d67c0 | Klue | Program Management Associate
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003 | Celonis | Associate Technology Consultant - Galaxy Graduate Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777097003?gh_jid=7777097003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://careers.hellofresh.com/global/en/job/7993055?gh_jid=7993055 | HelloFresh | Growth Marketing Specialist, Direct Mail
+- [ ] https://traderepublic.com/en-de/about?jobId=6318622003&gh_jid=6318622003 | Trade Republic | ML Platform Engineer (Berlin/London/Paris) 
+- [ ] https://sumup.com/careers/positions/8468195002?gh_jid=8468195002 | SumUp | Commercial Terrain - Indépendant (Freelance)
