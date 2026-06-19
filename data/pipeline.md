@@ -202,3 +202,16 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7993055?gh_jid=7993055 | HelloFresh | Growth Marketing Specialist, Direct Mail
 - [ ] https://traderepublic.com/en-de/about?jobId=6318622003&gh_jid=6318622003 | Trade Republic | ML Platform Engineer (Berlin/London/Paris) 
 - [ ] https://sumup.com/careers/positions/8468195002?gh_jid=8468195002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8598012002 | Databricks | Delivery Solutions Architect - Communications, Media, Entertainment & Games
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5270442008 | Anthropic | Software Engineer, Identity & Access Controls
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4707386005 | Glean | Industrial Trainee, Tax
+- [ ] https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff | Cohere | Software Engineer, Adoption
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003 | Celonis | Associate Applied AI Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7721667003?gh_jid=7721667003 | Celonis | Enterprise Account Executive Benelux CPG & Retail
+- [ ] https://helsing.ai/jobs/4902679101?gh_jid=4902679101 | Helsing | Systems Engineer (Electronic Warfare)
+- [ ] https://n26.com/en-eu/careers/positions/8009937?gh_jid=8009937 | N26 | Operational Readiness Associate - Complaints Management and Prevention
+- [ ] https://careers.hellofresh.com/global/en/job/8015783?gh_jid=8015783 | HelloFresh | Recipe Developer (f/m/x)
+- [ ] https://sumup.com/careers/positions/7993285002?gh_jid=7993285002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/legora/cf3f8c04-3077-41cf-aea1-ce43884ebee8 | Legora | Legal Engineer Associate
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6097447004 | Hightouch | AI Creative Designer, Email
