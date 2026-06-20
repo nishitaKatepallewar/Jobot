@@ -215,3 +215,7 @@
 - [ ] https://sumup.com/careers/positions/7993285002?gh_jid=7993285002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/legora/cf3f8c04-3077-41cf-aea1-ce43884ebee8 | Legora | Legal Engineer Associate
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6097447004 | Hightouch | AI Creative Designer, Email
+
+- [ ] https://careers.hellofresh.com/global/en/job/8018882?gh_jid=8018882 | HelloFresh | Maintenance Technician I 
+- [ ] https://sumup.com/careers/positions/7871945002?gh_jid=7871945002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/mistral/f90c244a-002d-4aec-b5fc-3824b74d9e92 | Mistral AI | Systems Engineer, HPC (APAC)
