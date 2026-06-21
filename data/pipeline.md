@@ -219,3 +219,8 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8018882?gh_jid=8018882 | HelloFresh | Maintenance Technician I 
 - [ ] https://sumup.com/careers/positions/7871945002?gh_jid=7871945002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/mistral/f90c244a-002d-4aec-b5fc-3824b74d9e92 | Mistral AI | Systems Engineer, HPC (APAC)
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7775887003?gh_jid=7775887003 | Celonis | Strategic Value & Process Optimisation Consultant - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Value Engineer (Supply Chain) - Iberia & Latam
+- [ ] https://sumup.com/careers/positions/8210442002?gh_jid=8210442002 | SumUp | Commercial Terrain - Indépendant (Freelance)
