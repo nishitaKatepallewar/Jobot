@@ -224,3 +224,11 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Value Engineer (Supply Chain) - Iberia & Latam
 - [ ] https://sumup.com/careers/positions/8210442002?gh_jid=8210442002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8012637?gh_jid=8012637 | Rubrik | Payroll Industrial Trainee
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4704943005 | Razorpay | Junior Associate, Risk & Chargebacks
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5264619008 | Anthropic | Research Engineer, RL Scaling Science
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706804005 | Glean | Associate Solutions Architect 
+- [ ] https://careers.hellofresh.com/global/en/job/8020023?gh_jid=8020023 | HelloFresh | Maintenance Technician I 
+- [ ] https://sumup.com/careers/positions/8210397002?gh_jid=8210397002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer
