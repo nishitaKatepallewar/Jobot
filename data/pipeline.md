@@ -232,3 +232,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8020023?gh_jid=8020023 | HelloFresh | Maintenance Technician I 
 - [ ] https://sumup.com/careers/positions/8210397002?gh_jid=8210397002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187 | Coinbase | Machine Learning Engineer
+- [ ] https://boards.greenhouse.io/figma/jobs/5980571004?gh_jid=5980571004 | Figma | Open Source Developer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4904498101 | Parloa | Working Student - AI Agent Architecture 
+- [ ] https://traderepublic.com/en-de/about?jobId=7775140003&gh_jid=7775140003 | Trade Republic | Platform Engineer – Backend & Reliability
+- [ ] https://careers.hellofresh.com/global/en/job/8022305?gh_jid=8022305 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/8023145?gh_jid=8023145 | HelloFresh | Schichtleiter Maintenance (all genders)
+- [ ] https://sumup.com/careers/positions/8370140002?gh_jid=8370140002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8601206002 | Wayve | Quality Assurance and Training Coordinator
+- [ ] https://jobs.ashbyhq.com/faculty/27dee06f-ffaa-462e-9b91-888272ba5989 | Faculty | Machine learning Engineer
