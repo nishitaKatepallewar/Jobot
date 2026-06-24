@@ -242,3 +242,12 @@
 - [ ] https://sumup.com/careers/positions/8370140002?gh_jid=8370140002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8601206002 | Wayve | Quality Assurance and Training Coordinator
 - [ ] https://jobs.ashbyhq.com/faculty/27dee06f-ffaa-462e-9b91-888272ba5989 | Faculty | Machine learning Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901 | Coinbase | Software Engineer, Enterprise Apps
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8585601002 | Databricks | Specialist Solutions Architect - Platform Security and Cloud Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f | Cohere | RevOps GTM Systems Architect
+- [ ] https://job-boards.greenhouse.io/later/jobs/8604889002 | Later | AI Automation Engineer Co-op 
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5276450008 | Black Forest Labs | Forward Deployed, Robotics Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8021245?gh_jid=8021245 | HelloFresh | Supply Chain Associate, Logistics/Shipping
+- [ ] https://jobs.ashbyhq.com/legora/3f80dbce-825a-45f9-8180-f3dcfc153086 | Legora | Solutions Engineer, London
