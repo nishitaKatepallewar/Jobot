@@ -251,3 +251,10 @@
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5276450008 | Black Forest Labs | Forward Deployed, Robotics Engineer
 - [ ] https://careers.hellofresh.com/global/en/job/8021245?gh_jid=8021245 | HelloFresh | Supply Chain Associate, Logistics/Shipping
 - [ ] https://jobs.ashbyhq.com/legora/3f80dbce-825a-45f9-8180-f3dcfc153086 | Legora | Solutions Engineer, London
+
+- [ ] https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814 | Coinbase | Software Engineer, Enterprise Apps
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5278230008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7778135003?gh_jid=7778135003 | Celonis | Account Executive - Retail
+- [ ] https://n26.com/en-eu/careers/positions/7899294?gh_jid=7899294 | N26 | Backend Engineer - Payments
+- [ ] https://careers.hellofresh.com/global/en/job/7965496?gh_jid=7965496 | HelloFresh | IT Support Engineer - Enterprise AI
