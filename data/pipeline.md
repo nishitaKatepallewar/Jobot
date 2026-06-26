@@ -258,3 +258,15 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7778135003?gh_jid=7778135003 | Celonis | Account Executive - Retail
 - [ ] https://n26.com/en-eu/careers/positions/7899294?gh_jid=7899294 | N26 | Backend Engineer - Payments
 - [ ] https://careers.hellofresh.com/global/en/job/7965496?gh_jid=7965496 | HelloFresh | IT Support Engineer - Enterprise AI
+
+- [ ] https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985 | Coinbase | Software Engineer, Frontend (Consumer - Card)
+- [ ] https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004 | Figma | Early Career Recruiter
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8341810002 | Databricks | Software Engineer- Fullstack- Singapore
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8345074002 | Databricks | Software Engineer- Fullstack- Tokyo
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5803965004 | Boomi | Presales Solutions Engineer - API Management
+- [ ] https://jobs.lever.co/mistral/087715c9-82b4-4c37-a22e-6f8086001751 | Mistral AI | AI Deployment Strategist
+- [ ] https://jobs.lever.co/mistral/4eca6d89-c813-4f50-969c-b3ea88b6b956 | Mistral AI | Applied AI Engineer, Fullstack
+- [ ] https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer
+- [ ] https://jobs.lever.co/mistral/d495bb77-df1f-44ef-9b63-e6f54cc95e41 | Mistral AI | Applied Scientist / Research Engineer
+- [ ] https://n26.com/en-eu/careers/positions/8020517?gh_jid=8020517 | N26 | Backend Engineer - Investments & Savings
+- [ ] https://jobs.ashbyhq.com/lakera.ai/df924d15-e52e-4ddb-a3de-127d53f4c76a | Lakera | Solutions Engineer (Amsterdam)
