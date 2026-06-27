@@ -270,3 +270,12 @@
 - [ ] https://jobs.lever.co/mistral/d495bb77-df1f-44ef-9b63-e6f54cc95e41 | Mistral AI | Applied Scientist / Research Engineer
 - [ ] https://n26.com/en-eu/careers/positions/8020517?gh_jid=8020517 | N26 | Backend Engineer - Investments & Savings
 - [ ] https://jobs.ashbyhq.com/lakera.ai/df924d15-e52e-4ddb-a3de-127d53f4c76a | Lakera | Solutions Engineer (Amsterdam)
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004 | Figma | Software Engineer, Traffic
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283616008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6092680004 | Boomi | AI Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/d81c28f5-2945-4c49-bc5b-86e345334cfb | Cohere | Counsel, Privacy and AI Regulation (EU)
+- [ ] https://careers.hellofresh.com/global/en/job/8030408?gh_jid=8030408 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8030522?gh_jid=8030522 | HelloFresh | Maintenance Technician III 
+- [ ] https://careers.hellofresh.com/global/en/job/8031285?gh_jid=8031285 | HelloFresh | Quality Control Associate 
+- [ ] https://sumup.com/careers/positions/7988666002?gh_jid=7988666002 | SumUp | Commercial(e) Terrain Indépendant(e)
