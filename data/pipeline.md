@@ -279,3 +279,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8030522?gh_jid=8030522 | HelloFresh | Maintenance Technician III 
 - [ ] https://careers.hellofresh.com/global/en/job/8031285?gh_jid=8031285 | HelloFresh | Quality Control Associate 
 - [ ] https://sumup.com/careers/positions/7988666002?gh_jid=7988666002 | SumUp | Commercial(e) Terrain Indépendant(e)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002 | Databricks | Software Engineer (Backend - SDE 2)
