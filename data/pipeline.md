@@ -281,3 +281,7 @@
 - [ ] https://sumup.com/careers/positions/7988666002?gh_jid=7988666002 | SumUp | Commercial(e) Terrain Indépendant(e)
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002 | Databricks | Software Engineer (Backend - SDE 2)
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8014930?gh_jid=8014930 | Rubrik | Industrial Trainee
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784391003?gh_jid=7784391003 | Celonis | Associate Value Engineering - Orbit India
+- [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spanish Government
