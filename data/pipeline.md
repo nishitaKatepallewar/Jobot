@@ -285,3 +285,10 @@
 - [ ] https://www.rubrik.com/company/careers/departments/job.8014930?gh_jid=8014930 | Rubrik | Industrial Trainee
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7784391003?gh_jid=7784391003 | Celonis | Associate Value Engineering - Orbit India
 - [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spanish Government
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005 | Razorpay | Full Stack Builder
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1f668ed5-49e9-4726-881f-7818733103b1 | ElevenLabs | Forward Deployed Creative
+- [ ] https://jobs.ashbyhq.com/sierra/119977f8-4e2e-4518-b2ab-2100ec425bda | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://helsing.ai/jobs/4911999101?gh_jid=4911999101 | Helsing | AI Research Engineer -  3D Computer Vision
+- [ ] https://jobs.lever.co/palantir/1f007e36-a620-4d15-bf0b-70dc3f3439d8 | Palantir | Deployment Strategist - Spain
+- [ ] https://jobs.lever.co/pigment/c664ceef-48b9-450e-90ca-0c9d1dfe08a3 | Pigment | Finance Systems Engineer
