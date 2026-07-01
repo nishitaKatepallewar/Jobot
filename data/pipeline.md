@@ -292,3 +292,13 @@
 - [ ] https://helsing.ai/jobs/4911999101?gh_jid=4911999101 | Helsing | AI Research Engineer -  3D Computer Vision
 - [ ] https://jobs.lever.co/palantir/1f007e36-a620-4d15-bf0b-70dc3f3439d8 | Palantir | Deployment Strategist - Spain
 - [ ] https://jobs.lever.co/pigment/c664ceef-48b9-450e-90ca-0c9d1dfe08a3 | Pigment | Finance Systems Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068 | Coinbase | Software Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002 | Databricks | Finance Data and AI Specialist
+- [ ] https://jobs.ashbyhq.com/n8n/bbf1a4a9-322e-4112-99fb-70153f41083e | n8n | Forward Deployed Engineer 
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6093399004 | Boomi | Boomi Integration Platform Developer
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6103322004 | Boomi | Solution Domain Expert, IPAAS
+- [ ] https://n26.com/en-eu/careers/positions/7921158?gh_jid=7921158 | N26 | Strategy & Operations - Associate - Payments
+- [ ] https://careers.hellofresh.com/global/en/job/7956652?gh_jid=7956652 | HelloFresh | Machine Learning Engineer, Operations Technology
+- [ ] https://careers.hellofresh.com/global/en/job/8040221?gh_jid=8040221 | HelloFresh | Marketing Associate (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8610265002 | Wayve | Software Engineer (Product,  AI Portal)
