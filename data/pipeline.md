@@ -302,3 +302,7 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7956652?gh_jid=7956652 | HelloFresh | Machine Learning Engineer, Operations Technology
 - [ ] https://careers.hellofresh.com/global/en/job/8040221?gh_jid=8040221 | HelloFresh | Marketing Associate (Freelance)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8610265002 | Wayve | Software Engineer (Product,  AI Portal)
+
+- [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East
+- [ ] https://careers.hellofresh.com/global/en/job/8043087?gh_jid=8043087 | HelloFresh | Social Media & Influencer Stagiair(e) (m/v/x)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7775886003?gh_jid=7775886003 | Celonis | Management & Technology Consultant - Supply Chain
