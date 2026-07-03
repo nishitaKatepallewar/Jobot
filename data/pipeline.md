@@ -306,3 +306,10 @@
 - [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East
 - [ ] https://careers.hellofresh.com/global/en/job/8043087?gh_jid=8043087 | HelloFresh | Social Media & Influencer Stagiair(e) (m/v/x)
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7775886003?gh_jid=7775886003 | Celonis | Management & Technology Consultant - Supply Chain
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8027951?gh_jid=8027951 | Rubrik | Industrial Trainee (Accounting)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4711544005 | Scale AI | Machine Learning Engineer, Platform
+- [ ] https://n26.com/en-eu/careers/positions/8041748?gh_jid=8041748 | N26 | Junior Backend Engineer - Data Ingestion
+- [ ] https://n26.com/en-eu/careers/positions/8043584?gh_jid=8043584 | N26 | Steering & Planning Associate - Payments
+- [ ] https://sumup.com/careers/positions/8097411002?gh_jid=8097411002 | SumUp | Field Sales Associate - Amsterdam Talent Pool
+- [ ] https://careers.hellofresh.com/global/en/job/8044891?gh_jid=8044891 | HelloFresh | AI and Automation Specialist
