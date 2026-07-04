@@ -313,3 +313,10 @@
 - [ ] https://n26.com/en-eu/careers/positions/8043584?gh_jid=8043584 | N26 | Steering & Planning Associate - Payments
 - [ ] https://sumup.com/careers/positions/8097411002?gh_jid=8097411002 | SumUp | Field Sales Associate - Amsterdam Talent Pool
 - [ ] https://careers.hellofresh.com/global/en/job/8044891?gh_jid=8044891 | HelloFresh | AI and Automation Specialist
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002 | Databricks | Forward Deployed Engineer
+- [ ] https://n26.com/en-eu/careers/positions/8035334?gh_jid=8035334 | N26 | Backend Engineer – Core Systems
+- [ ] https://n26.com/en-eu/careers/positions/7925103?gh_jid=7925103 | N26 | Backend Engineer - Engagement
+- [ ] https://careers.hellofresh.com/global/en/job/8036564?gh_jid=8036564 | HelloFresh | Software Developer, Operations Technology
+- [ ] https://sumup.com/careers/positions/7988679002?gh_jid=7988679002 | SumUp | Commercial(e) Terrain Indépendant(e)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6108952004 | Isomorphic Labs | Software Engineer (Inference Platform), London
