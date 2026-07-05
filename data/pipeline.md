@@ -320,3 +320,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8036564?gh_jid=8036564 | HelloFresh | Software Developer, Operations Technology
 - [ ] https://sumup.com/careers/positions/7988679002?gh_jid=7988679002 | SumUp | Commercial(e) Terrain Indépendant(e)
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6108952004 | Isomorphic Labs | Software Engineer (Inference Platform), London
+
+- [ ] https://n26.com/en-eu/careers/positions/8045342?gh_jid=8045342 | N26 | Backend Engineer – Core Systems
