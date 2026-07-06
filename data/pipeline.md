@@ -322,3 +322,6 @@
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6108952004 | Isomorphic Labs | Software Engineer (Inference Platform), London
 
 - [ ] https://n26.com/en-eu/careers/positions/8045342?gh_jid=8045342 | N26 | Backend Engineer – Core Systems
+
+- [ ] https://jobs.lever.co/spotify/e841d99b-6daf-466a-bcbc-0dd81c2cf52e | Spotify | Associate Music Editor, South Korea (Contract)
+- [ ] https://jobs.lever.co/mistral/84f85d72-f1ff-46da-b7a0-4bf37764db3a | Mistral AI | AI Deployment Strategist, Science - EMEA
