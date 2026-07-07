@@ -325,3 +325,8 @@
 
 - [ ] https://jobs.lever.co/spotify/e841d99b-6daf-466a-bcbc-0dd81c2cf52e | Spotify | Associate Music Editor, South Korea (Contract)
 - [ ] https://jobs.lever.co/mistral/84f85d72-f1ff-46da-b7a0-4bf37764db3a | Mistral AI | AI Deployment Strategist, Science - EMEA
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4712122005 | Razorpay | AI Builder
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795941003?gh_jid=7795941003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795949003?gh_jid=7795949003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791267003?gh_jid=7791267003 | Celonis | Software Engineer - Java
