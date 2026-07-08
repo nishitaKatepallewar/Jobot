@@ -330,3 +330,14 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7795941003?gh_jid=7795941003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7795949003?gh_jid=7795949003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7791267003?gh_jid=7791267003 | Celonis | Software Engineer - Java
+
+- [ ] https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260 | Coinbase | Machine Learning Engineer, CX Intelligence
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5428982004 | Vercel | Software Engineer, Observability
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/klue/47de8ec1-6e3e-4e9a-af1d-931a6013e57e | Klue | Software Engineer II, AI
+- [ ] https://job-boards.greenhouse.io/hootsuite/jobs/7943876 | Hootsuite | AI Social Strategist
+- [ ] https://helsing.ai/jobs/4921364101?gh_jid=4921364101 | Helsing | Systems Technical Writer
+- [ ] https://careers.hellofresh.com/global/en/job/8049022?gh_jid=8049022 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8045415?gh_jid=8045415 | HelloFresh | Quality Control Associate
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8622191002 | Wayve | Machine Learning Engineer, ADAS
+- [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Infrastructure Engineer – Platform
