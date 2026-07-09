@@ -341,3 +341,16 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8045415?gh_jid=8045415 | HelloFresh | Quality Control Associate
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8622191002 | Wayve | Machine Learning Engineer, ADAS
 - [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Infrastructure Engineer – Platform
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004 | Figma | Software Engineer, Mobile Web
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0e238579-d1db-4db2-a37a-8c28e86ce55e | ElevenLabs | Account Executive - ElevenCreative - Spain
+- [ ] https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5 | Deepgram | Backend Engineer- Inference Services
+- [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8595098002 | Databricks | Solutions Architect, Retail - CPG
+- [ ] https://n26.com/en-eu/careers/positions/8043058?gh_jid=8043058 | N26 | Junior Backend Engineer - Data Ingestion
+- [ ] https://n26.com/en-eu/careers/positions/8023346?gh_jid=8023346 | N26 | Risk Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8051042?gh_jid=8051042 | HelloFresh | Account Executive - Retail Media
+- [ ] https://sumup.com/careers/positions/8518889002?gh_jid=8518889002 | SumUp | Software Engineer - Global Expansion
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8622189002 | Wayve | Machine Learning Engineer, ADAS
+- [ ] https://jobs.lever.co/spotify/39901b71-2c35-40ed-b515-d369bf875713 | Spotify | Sales Trainer, EMEA - London
+- [ ] https://jobs.ashbyhq.com/legora/a80e0ca9-85cb-4173-9b2b-cb5644eba18f | Legora | Fullstack Engineer 
