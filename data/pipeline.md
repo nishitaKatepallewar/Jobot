@@ -354,3 +354,12 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8622189002 | Wayve | Machine Learning Engineer, ADAS
 - [ ] https://jobs.lever.co/spotify/39901b71-2c35-40ed-b515-d369bf875713 | Spotify | Sales Trainer, EMEA - London
 - [ ] https://jobs.ashbyhq.com/legora/a80e0ca9-85cb-4173-9b2b-cb5644eba18f | Legora | Fullstack Engineer 
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4713785005 | Razorpay | AI Builder
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4712960005 | Razorpay | Full Stack Builder
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8625462002 | Databricks | Applied AI Engineer, Learning Intelligence
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8625374002 | Databricks | Solutions Architect, Retail - Travel & Hospitality 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005 | Glean | Software Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712438005 | Glean | Software Engineer, Evals
+- [ ] https://helsing.ai/jobs/4923845101?gh_jid=4923845101 | Helsing | Wireless Communications Systems Engineer
+- [ ] https://jobs.ashbyhq.com/legora/ac0aebb7-fad2-4f1e-83ec-40a5e1a70a2b | Legora | Forward Deployed Engineer - SE
