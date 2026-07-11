@@ -363,3 +363,16 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712438005 | Glean | Software Engineer, Evals
 - [ ] https://helsing.ai/jobs/4923845101?gh_jid=4923845101 | Helsing | Wireless Communications Systems Engineer
 - [ ] https://jobs.ashbyhq.com/legora/ac0aebb7-fad2-4f1e-83ec-40a5e1a70a2b | Legora | Forward Deployed Engineer - SE
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/05e53a4b-8ab9-40a1-b53d-c730ef684dbe | ElevenLabs | Account Executive- Spain - Enterprise 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28 | ElevenLabs | Account Executive - Spain - Mid-Market
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8678d594-66cb-4150-a0f8-44599c54f89a | ElevenLabs | Account Executive - ElevenCreative - Spain
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Software Engineer, Trust & Safety
+- [ ] https://jobs.ashbyhq.com/deepgram/d75d6f84-1d54-4354-a364-609b48267658 | Deepgram | Partner Success Engineer (Infrastructure)
+- [ ] https://n26.com/en-eu/careers/positions/8020521?gh_jid=8020521 | N26 | Backend Engineer - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/8054951?gh_jid=8054951 | N26 | Business Team Associate - Deposits & Savings
+- [ ] https://careers.hellofresh.com/global/en/job/8055120?gh_jid=8055120 | HelloFresh | Field Marketing Stagiair (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8052823?gh_jid=8052823 | HelloFresh | Logistics Associate
+- [ ] https://jobs.lever.co/spotify/308d127c-e765-4895-9264-3765ddbfc620 | Spotify | Software Engineer - Financial Engineering
+- [ ] https://jobs.ashbyhq.com/faculty/3b19a24d-8c8a-4ccc-8aa8-2a66874c0f9b | Faculty | Platform Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/8c211ad2-133d-413f-b65f-31d02f672113 | Faculty | Machine Learning Engineer
