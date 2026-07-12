@@ -376,3 +376,5 @@
 - [ ] https://jobs.lever.co/spotify/308d127c-e765-4895-9264-3765ddbfc620 | Spotify | Software Engineer - Financial Engineering
 - [ ] https://jobs.ashbyhq.com/faculty/3b19a24d-8c8a-4ccc-8aa8-2a66874c0f9b | Faculty | Platform Engineer
 - [ ] https://jobs.ashbyhq.com/faculty/8c211ad2-133d-413f-b65f-31d02f672113 | Faculty | Machine Learning Engineer
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8437012002 | Databricks | Solutions Architect (Pre-sales) - Kansai Region
