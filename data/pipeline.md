@@ -378,3 +378,5 @@
 - [ ] https://jobs.ashbyhq.com/faculty/8c211ad2-133d-413f-b65f-31d02f672113 | Faculty | Machine Learning Engineer
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8437012002 | Databricks | Solutions Architect (Pre-sales) - Kansai Region
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
