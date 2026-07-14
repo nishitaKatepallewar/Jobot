@@ -380,3 +380,7 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8437012002 | Databricks | Solutions Architect (Pre-sales) - Kansai Region
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714 | Rubrik | Software Engineer - Hypervisor 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6114304004 | Hightouch | Associate Talent Partner 
