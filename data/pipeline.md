@@ -384,3 +384,13 @@
 - [ ] https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714 | Rubrik | Software Engineer - Hypervisor 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6114304004 | Hightouch | Associate Talent Partner 
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6110219004?gh_jid=6110219004 | Figma | Forward Deployed Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6113157004 | Vercel | Software Engineer, Compute
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5343697008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8622319002 | Databricks | Enterprise Account Executive - Retail 
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5186521007 | Safari AI | Backend Developer
+- [ ] https://n26.com/en-eu/careers/positions/8064019?gh_jid=8064019 | N26 | Backend Engineer - Lending
+- [ ] https://n26.com/en-eu/careers/positions/8053326?gh_jid=8053326 | N26 | Banking Operations - Claims Specialist German market
+- [ ] https://n26.com/en-eu/careers/positions/8053334?gh_jid=8053334 | N26 | Banking Operations - Claims Specialist Italian market
+- [ ] https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919 | Spotify | Multilingual AI Quality Specialist
