@@ -394,3 +394,8 @@
 - [ ] https://n26.com/en-eu/careers/positions/8053326?gh_jid=8053326 | N26 | Banking Operations - Claims Specialist German market
 - [ ] https://n26.com/en-eu/careers/positions/8053334?gh_jid=8053334 | N26 | Banking Operations - Claims Specialist Italian market
 - [ ] https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919 | Spotify | Multilingual AI Quality Specialist
+
+- [ ] https://jobs.ashbyhq.com/vapi/dce1928f-b432-4d6b-8c2f-b7c63c672310 | Vapi | Solutions Engineer - EMEA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://careers.hellofresh.com/global/en/job/8065690?gh_jid=8065690 | HelloFresh | Production Associate
+- [ ] https://sumup.com/careers/positions/8421864002?gh_jid=8421864002 | SumUp | Commercial(e) Terrain (H/F)- CDI 
