@@ -399,3 +399,9 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://careers.hellofresh.com/global/en/job/8065690?gh_jid=8065690 | HelloFresh | Production Associate
 - [ ] https://sumup.com/careers/positions/8421864002?gh_jid=8421864002 | SumUp | Commercial(e) Terrain (H/F)- CDI 
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/cb90c8ba-dc35-4e86-9103-9564751ccaf7 | ElevenLabs | Strategic Account Executive - Sweden - Retail
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6117204004 | Vercel | Security Software Engineer, Open Source Frameworks
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6118673004 | Boomi | Systems Development Engineer 2
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6017864004 | Boomi | Talent Acquisition Analytics & AI Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8068936?gh_jid=8068936 | HelloFresh | Maintenance Technician (all genders)
