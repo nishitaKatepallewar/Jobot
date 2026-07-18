@@ -405,3 +405,9 @@
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6118673004 | Boomi | Systems Development Engineer 2
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6017864004 | Boomi | Talent Acquisition Analytics & AI Specialist
 - [ ] https://careers.hellofresh.com/global/en/job/8068936?gh_jid=8068936 | HelloFresh | Maintenance Technician (all genders)
+
+- [ ] https://jobs.ashbyhq.com/sierra/ef109d91-43de-4f96-94e5-fac6f1d8c8e1 | Sierra | Enterprise Account Executive, Spain
+- [ ] https://careers.hellofresh.com/global/en/job/8072086?gh_jid=8072086 | HelloFresh | Associate/Analyst DC waste
+- [ ] https://careers.hellofresh.com/global/en/job/8071400?gh_jid=8071400 | HelloFresh | Junior Maintenance Planner 
+- [ ] https://careers.hellofresh.com/global/en/job/8068254?gh_jid=8068254 | HelloFresh | Sanitation Associate
+- [ ] https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386 | Coinbase | Associate, Financial Services Partnerships
