@@ -411,3 +411,7 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8071400?gh_jid=8071400 | HelloFresh | Junior Maintenance Planner 
 - [ ] https://careers.hellofresh.com/global/en/job/8068254?gh_jid=8068254 | HelloFresh | Sanitation Associate
 - [ ] https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386 | Coinbase | Associate, Financial Services Partnerships
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a | ElevenLabs | Forward Deployed Engineer - Software Engineer - ANZ
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa | ElevenLabs | Forward Deployed Engineer - Software Engineer - India
+- [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra | AI Voice Designer
