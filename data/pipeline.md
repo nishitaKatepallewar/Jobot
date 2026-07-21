@@ -415,3 +415,7 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a | ElevenLabs | Forward Deployed Engineer - Software Engineer - ANZ
 - [ ] https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa | ElevenLabs | Forward Deployed Engineer - Software Engineer - India
 - [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra | AI Voice Designer
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7809732003?gh_jid=7809732003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7809731003?gh_jid=7809731003 | Celonis | Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)
+- [ ] https://jobs.ashbyhq.com/legora/358fdf88-abc7-4ffa-9559-79b215b25a74 | Legora | Web Developer / Web Owner
