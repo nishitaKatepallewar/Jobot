@@ -419,3 +419,8 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7809732003?gh_jid=7809732003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7809731003?gh_jid=7809731003 | Celonis | Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)
 - [ ] https://jobs.ashbyhq.com/legora/358fdf88-abc7-4ffa-9559-79b215b25a74 | Legora | Web Developer / Web Owner
+
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791275003?gh_jid=7791275003 | Celonis | Software Engineer - Java
+- [ ] https://n26.com/en-eu/careers/positions/8077098?gh_jid=8077098 | N26 | AI Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer 
