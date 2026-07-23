@@ -424,3 +424,12 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7791275003?gh_jid=7791275003 | Celonis | Software Engineer - Java
 - [ ] https://n26.com/en-eu/careers/positions/8077098?gh_jid=8077098 | N26 | AI Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer 
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301 | Rubrik | Software Engineer Atlas
+- [ ] https://boards.greenhouse.io/figma/jobs/6112961004?gh_jid=6112961004 | Figma | Strategic Finance, AI Innovation
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8397501002 | Databricks | AI Operations
+- [ ] https://careers.hellofresh.com/global/en/job/8080916?gh_jid=8080916 | HelloFresh |  IJP - Training Facilitator CustCare Global
+- [ ] https://careers.hellofresh.com/global/en/job/8076104?gh_jid=8076104 | HelloFresh | QA Systems Officer
+- [ ] https://careers.hellofresh.com/global/en/job/8079790?gh_jid=8079790 | HelloFresh | Quality Assurance Associate
+- [ ] https://n26.com/en-eu/careers/positions/7920917?gh_jid=7920917 | N26 | AI Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8431120002 | Wayve | Machine Learning Engineer
