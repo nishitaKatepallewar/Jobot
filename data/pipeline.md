@@ -433,3 +433,12 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8079790?gh_jid=8079790 | HelloFresh | Quality Assurance Associate
 - [ ] https://n26.com/en-eu/careers/positions/7920917?gh_jid=7920917 | N26 | AI Engineer
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8431120002 | Wayve | Machine Learning Engineer
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717105005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717977005 | Scale AI | AI Infrastructure Engineer, Serving Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002 | Databricks | Forward Deployed Engineer (FDE) - Public Sector
+- [ ] https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0 | Palantir | Forward Deployed Software Engineer - NATO
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7814021003?gh_jid=7814021003 | Celonis | Associate (AI) Solution Consultant - Orbit Program (Madrid-based)
+- [ ] https://jobs.ashbyhq.com/workos/3e8fb2cb-de91-4221-bfdc-37d81057cc0f | WorkOS | Systems Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8079787?gh_jid=8079787 | HelloFresh | Quality Control Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8082334?gh_jid=8082334 | HelloFresh | Warehouse Sorter- Fairfield NJ
