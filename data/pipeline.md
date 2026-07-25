@@ -442,3 +442,8 @@
 - [ ] https://jobs.ashbyhq.com/workos/3e8fb2cb-de91-4221-bfdc-37d81057cc0f | WorkOS | Systems Engineer
 - [ ] https://careers.hellofresh.com/global/en/job/8079787?gh_jid=8079787 | HelloFresh | Quality Control Associate
 - [ ] https://careers.hellofresh.com/global/en/job/8082334?gh_jid=8082334 | HelloFresh | Warehouse Sorter- Fairfield NJ
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents
+- [ ] https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505 | N26 | Junior Backend Engineer - Customer Identity
+- [ ] https://jobs.ashbyhq.com/legora/f670f8cd-5d75-448a-9128-0a36879f0fc3 | Legora | Engagement Associate
+- [ ] https://careers.hellofresh.com/global/en/job/7982987?gh_jid=7982987 | HelloFresh | Supply Chain Coordinator, Retail
