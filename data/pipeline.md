@@ -447,3 +447,5 @@
 - [ ] https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505 | N26 | Junior Backend Engineer - Customer Identity
 - [ ] https://jobs.ashbyhq.com/legora/f670f8cd-5d75-448a-9128-0a36879f0fc3 | Legora | Engagement Associate
 - [ ] https://careers.hellofresh.com/global/en/job/7982987?gh_jid=7982987 | HelloFresh | Supply Chain Coordinator, Retail
+
+- [ ] https://jobs.ashbyhq.com/legora/d5c5f9ea-956e-49f2-8bd4-8da949bdfc21 | Legora | Engagement Associate
