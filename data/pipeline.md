@@ -449,3 +449,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/7982987?gh_jid=7982987 | HelloFresh | Supply Chain Coordinator, Retail
 
 - [ ] https://jobs.ashbyhq.com/legora/d5c5f9ea-956e-49f2-8bd4-8da949bdfc21 | Legora | Engagement Associate
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003 | Celonis | Associate Applied (AI) Value Engineer (DACH) - Orbit Program
