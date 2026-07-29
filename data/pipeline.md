@@ -454,3 +454,10 @@
 
 - [ ] https://sumup.com/careers/positions/7988642002?gh_jid=7988642002 | SumUp | Commercial Terrain (H/F) – Nantes
 - [ ] https://sumup.com/careers/positions/8370153002?gh_jid=8370153002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8609617002 | Databricks | Delivery Solutions Architect - Retail, Travel & Hospitality
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8653583002 | Databricks | Solutions Architect (Portuguese Spekaing) Madrid Spain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7819725003?gh_jid=7819725003 | Celonis | Associate Applied (AI) Value Engineer (DACH)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820049003?gh_jid=7820049003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://careers.hellofresh.com/global/en/job/8093663?gh_jid=8093663 | HelloFresh | Sourcing Coordinator (Supply Chain)
+- [ ] https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1 | Spotify | Fullstack Engineer - Subscriptions
