@@ -461,3 +461,11 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7820049003?gh_jid=7820049003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
 - [ ] https://careers.hellofresh.com/global/en/job/8093663?gh_jid=8093663 | HelloFresh | Sourcing Coordinator (Supply Chain)
 - [ ] https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1 | Spotify | Fullstack Engineer - Subscriptions
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8083001?gh_jid=8083001 | Rubrik | Industrial Trainee
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript)
+- [ ] https://jobs.ashbyhq.com/langchain/7441ccb7-bc77-4966-8d2f-e9ff487bc651 | LangChain | Marketing Operations Systems
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002 | Databricks | Full Stack Developer (AI Agents)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7749204003?gh_jid=7749204003 | Celonis | Client Value Partner - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/7931110?gh_jid=7931110 | HelloFresh | [US DC] Labor Planning Associate
+- [ ] https://sumup.com/careers/positions/7875282002?gh_jid=7875282002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
