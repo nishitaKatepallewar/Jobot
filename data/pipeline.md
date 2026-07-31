@@ -469,3 +469,16 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7749204003?gh_jid=7749204003 | Celonis | Client Value Partner - Retail
 - [ ] https://careers.hellofresh.com/global/en/job/7931110?gh_jid=7931110 | HelloFresh | [US DC] Labor Planning Associate
 - [ ] https://sumup.com/careers/positions/7875282002?gh_jid=7875282002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002 | Databricks | AI Engineer — GTM Analytics
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6020852004 | Vercel | IT Systems Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820050003?gh_jid=7820050003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7749202003?gh_jid=7749202003 | Celonis | Client Value Partner - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8097713?gh_jid=8097713 | HelloFresh | Operations Trainer 
+- [ ] https://careers.hellofresh.com/global/en/job/7931111?gh_jid=7931111 | HelloFresh | [US DC] Labor Planning Associate
+- [ ] https://sumup.com/careers/positions/7875289002?gh_jid=7875289002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+- [ ] https://jobs.ashbyhq.com/lovable/722d4ea3-9aa7-460f-802e-ae1ec31170f4 | Lovable | Software Engineer, Platform (Enterprise)
+- [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
+- [ ] https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government
+- [ ] https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e | Palantir | Software Engineer, New Grad
+- [ ] https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b | Palantir | Software Engineer, New Grad - Infrastructure
