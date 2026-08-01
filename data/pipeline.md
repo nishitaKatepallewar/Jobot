@@ -482,3 +482,13 @@
 - [ ] https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government
 - [ ] https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e | Palantir | Software Engineer, New Grad
 - [ ] https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b | Palantir | Software Engineer, New Grad - Infrastructure
+
+- [ ] https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932 | Coinbase | Forward Deployed Engineer, Finance [Office of the CTO]
+- [ ] https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884 | Coinbase | Forward Deployed Engineer, Legal [Office of the CTO]
+- [ ] https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066 | Coinbase | Software Engineer, EAA 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8659539002 | Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure
+- [ ] https://jobs.ashbyhq.com/DeepL/7d0de562-ba6e-49eb-b6a9-7b72ce64efad | DeepL | Software Engineer | Language Products | Full-Stack
+- [ ] https://jobs.ashbyhq.com/DeepL/7664ff90-725e-4955-b81a-a559c8bbd3ed | DeepL | Software Engineer | Full-Stack
+- [ ] https://careers.hellofresh.com/global/en/job/8090725?gh_jid=8090725 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
+- [ ] https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7 | Palantir | Product Designer, New Grad
+- [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer
