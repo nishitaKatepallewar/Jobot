@@ -492,3 +492,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8090725?gh_jid=8090725 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
 - [ ] https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7 | Palantir | Product Designer, New Grad
 - [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer
+
+- [ ] https://careers.hellofresh.com/global/en/job/8090727?gh_jid=8090727 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
