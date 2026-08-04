@@ -494,3 +494,15 @@
 - [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer
 
 - [ ] https://careers.hellofresh.com/global/en/job/8090727?gh_jid=8090727 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8563181002 | Databricks | Solutions Architect - AI Natives Business, Strategic
+- [ ] https://jobs.ashbyhq.com/attio/d931deed-5261-4cd3-8c4a-27811455c371 | Attio | Graduate Associate, Marketing
+- [ ] https://jobs.ashbyhq.com/attio/448ecdc1-4869-41ef-a9a2-5d0b4949ce4a | Attio | Graduate Associate, Operations
+- [ ] https://jobs.ashbyhq.com/attio/6df9a62f-11a9-4020-b68b-93b8a8c98f1a | Attio | Graduate Associate, GTM
+- [ ] https://helsing.ai/jobs/4943195101?gh_jid=4943195101 | Helsing | Robotics Software Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7822665003?gh_jid=7822665003 | Celonis | Software Engineer - Process Mining Technology
+- [ ] https://sumup.com/careers/positions/8364212002?gh_jid=8364212002 | SumUp | Data Platform Engineer
+- [ ] https://sumup.com/careers/positions/8185157002?gh_jid=8185157002 | SumUp | Field Sales Associate - Rotterdam Talent Pool
+- [ ] https://n26.com/en-eu/careers/positions/8083076?gh_jid=8083076 | N26 | Corporate Governance Associate
+- [ ] https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4 | Legora | Associate, Applied Research, AI Transformation
