@@ -506,3 +506,14 @@
 - [ ] https://sumup.com/careers/positions/8185157002?gh_jid=8185157002 | SumUp | Field Sales Associate - Rotterdam Talent Pool
 - [ ] https://n26.com/en-eu/careers/positions/8083076?gh_jid=8083076 | N26 | Corporate Governance Associate
 - [ ] https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4 | Legora | Associate, Applied Research, AI Transformation
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8672336002 | Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820422003?gh_jid=7820422003 | Celonis | Software Engineer - Context Model Core Team
+- [ ] https://sumup.com/careers/positions/8583444002?gh_jid=8583444002 | SumUp | Backend Engineer - Cards
+- [ ] https://sumup.com/careers/positions/8682238002?gh_jid=8682238002 | SumUp | Backend Engineer (Golang) - Balance Management
+- [ ] https://sumup.com/careers/positions/8682293002?gh_jid=8682293002 | SumUp | Backend Engineer - Money Transfers
+- [ ] https://sumup.com/careers/positions/8682251002?gh_jid=8682251002 | SumUp | Backend Engineer - Transfers Gateway
+- [ ] https://sumup.com/careers/positions/8390715002?gh_jid=8390715002 | SumUp | Commercial(e) Terrain (H/F) – CDI
+- [ ] https://sumup.com/careers/positions/8518892002?gh_jid=8518892002 | SumUp | Software Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8106942?gh_jid=8106942 | HelloFresh | [US-DC] Production Associate, Factor
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6134022004 | Hightouch | Enterprise Account Executive, Spain 
