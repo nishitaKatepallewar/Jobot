@@ -517,3 +517,14 @@
 - [ ] https://sumup.com/careers/positions/8518892002?gh_jid=8518892002 | SumUp | Software Engineer
 - [ ] https://careers.hellofresh.com/global/en/job/8106942?gh_jid=8106942 | HelloFresh | [US-DC] Production Associate, Factor
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6134022004 | Hightouch | Enterprise Account Executive, Spain 
+
+- [ ] https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099 | Coinbase | Forward Deployed Engineer, Compliance [Office of the CTO]
+- [ ] https://jobs.ashbyhq.com/bland/ea532833-f3d8-4dad-b5b2-f9bbeaa1a1a5 | Bland AI | Enterprise Solutions Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8675568002 | Databricks | Solutions Architect (Portuguese Speaking) Madrid Spain
+- [ ] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | AI Engineer, Enablement (London)
+- [ ] https://jobs.ashbyhq.com/langchain/0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4 | LangChain | AI Engineer, Enablement (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd | n8n | Forward Deployed Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/DeepL/4a7aa4be-7092-4dc0-bfd7-bc9dbe91dd08 | DeepL | Software Engineer | Identity & Access Management | Full-Stack 
+- [ ] https://careers.hellofresh.com/global/en/job/8108536?gh_jid=8108536 | HelloFresh | IT Support Engineer - Enterprise AI
+- [ ] https://careers.hellofresh.com/global/en/job/8092481?gh_jid=8092481 | HelloFresh | Maintenance Technician II
+- [ ] https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75 | Lovable | Brand Designer, AI & Ops
