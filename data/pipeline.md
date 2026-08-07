@@ -528,3 +528,8 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8108536?gh_jid=8108536 | HelloFresh | IT Support Engineer - Enterprise AI
 - [ ] https://careers.hellofresh.com/global/en/job/8092481?gh_jid=8092481 | HelloFresh | Maintenance Technician II
 - [ ] https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75 | Lovable | Brand Designer, AI & Ops
+
+- [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4693662006 | Couchbase | Software Engineer II
+- [ ] https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485 | Coinbase | Software Engineer, CDP - Stablecoin
+- [ ] https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286 | Coinbase | Software Engineer, Data Platform Team
+- [ ] https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92 | Lovable | AI Ops Engineer (People Team)
