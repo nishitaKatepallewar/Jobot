@@ -533,3 +533,9 @@
 - [ ] https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485 | Coinbase | Software Engineer, CDP - Stablecoin
 - [ ] https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286 | Coinbase | Software Engineer, Data Platform Team
 - [ ] https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92 | Lovable | AI Ops Engineer (People Team)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6132416004 | Vercel | Partner Solutions Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7834892003?gh_jid=7834892003 | Celonis | Training Specialist (Portuguese Speaker)
+- [ ] https://careers.hellofresh.com/global/en/job/8113998?gh_jid=8113998 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/8114112?gh_jid=8114112 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8112900?gh_jid=8112900 | HelloFresh | Quality Control Associate
