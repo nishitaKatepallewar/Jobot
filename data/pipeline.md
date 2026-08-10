@@ -539,3 +539,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8113998?gh_jid=8113998 | HelloFresh | Maintenance Technician I
 - [ ] https://careers.hellofresh.com/global/en/job/8114112?gh_jid=8114112 | HelloFresh | Maintenance Technician II
 - [ ] https://careers.hellofresh.com/global/en/job/8112900?gh_jid=8112900 | HelloFresh | Quality Control Associate
+
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6135436004 | Boomi | Endpoint management and IT Automation - Advisor i7 - IT Infrastructure
