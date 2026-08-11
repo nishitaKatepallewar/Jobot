@@ -541,3 +541,21 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8112900?gh_jid=8112900 | HelloFresh | Quality Control Associate
 
 - [ ] https://boomi.com/boomi-jobs/?gh_jid=6135436004 | Boomi | Endpoint management and IT Automation - Advisor i7 - IT Infrastructure
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002 | Databricks | AI Engineer, FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38e0b741-5bfa-4481-891e-e95b503d4aff | ElevenLabs | Forward Deployed Engineer - Software Engineer - France
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4fa4745c-cc31-4d20-8695-60e104c9c217 | ElevenLabs | Enterprise Solutions Engineer - Switzerland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Canada
+- [ ] https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c | ElevenLabs | Enterprise Solutions Engineer - Sweden
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c6fc071f-c80e-4d3b-921a-3ec02a2ad25d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Sweden
+- [ ] https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Singapore)
+- [ ] https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8 | Palantir | Deployment Strategist, New Grad - Commercial
+- [ ] https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
+- [ ] https://careers.hellofresh.com/global/en/job/8119915?gh_jid=8119915 | HelloFresh | Maintenance Technician I 
+- [ ] https://sumup.com/careers/positions/8118802002?gh_jid=8118802002 | SumUp | Commercial(e) Terrain (H/F) – Lyon
+- [ ] https://sumup.com/careers/positions/8693566002?gh_jid=8693566002 | SumUp | Growth Associate - Bank & Lending
+- [ ] https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961 | Faculty | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/74516bac-468a-44ad-84f6-4d4d8a0ca93f | Faculty | Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/cc5be5b9-e294-4ecf-bf73-d03894fb5f00 | Faculty | Associate (National Security) 
+- [ ] https://jobs.ashbyhq.com/faculty/1f8374d4-2523-448b-9900-76fe5b21080b | Faculty | Associate (Safety) 
