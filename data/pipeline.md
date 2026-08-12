@@ -559,3 +559,17 @@
 - [ ] https://jobs.ashbyhq.com/faculty/74516bac-468a-44ad-84f6-4d4d8a0ca93f | Faculty | Software Engineer
 - [ ] https://jobs.ashbyhq.com/faculty/cc5be5b9-e294-4ecf-bf73-d03894fb5f00 | Faculty | Associate (National Security) 
 - [ ] https://jobs.ashbyhq.com/faculty/1f8374d4-2523-448b-9900-76fe5b21080b | Faculty | Associate (Safety) 
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060 | Rubrik | Software Engineer - Jarvis
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0d68b2a2-887e-491c-8b9b-56e8354f75fb | ElevenLabs | Enterprise Solutions Engineer - Canada
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d | Sierra | Forward Deployed Infrastructure Engineer (Spanish speaking)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4722386005 | Glean | Strategic Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4612849005 | Glean | Supply Chain Security Engineer
+- [ ] https://job-boards.greenhouse.io/later/jobs/8697127002 | Later | Paid Media and Affiliate Marketing Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8121627?gh_jid=8121627 | HelloFresh | Claims & Risk Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/8113920?gh_jid=8113920 | HelloFresh | Finance Systems Analyst (All Genders)
+- [ ] https://sumup.com/careers/positions/8699064002?gh_jid=8699064002 | SumUp | Commercial(e) Terrain (H/F) – CDI 
+- [ ] https://sumup.com/careers/positions/8699015002?gh_jid=8699015002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+- [ ] https://sumup.com/careers/positions/8660342002?gh_jid=8660342002 | SumUp | Field Sales Trainer (UK South)
+- [ ] https://sumup.com/careers/positions/8634773002?gh_jid=8634773002 | SumUp | Growth Associate - Bank & Lending
