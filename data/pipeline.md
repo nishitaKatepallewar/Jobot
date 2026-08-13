@@ -573,3 +573,12 @@
 - [ ] https://sumup.com/careers/positions/8699015002?gh_jid=8699015002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
 - [ ] https://sumup.com/careers/positions/8660342002?gh_jid=8660342002 | SumUp | Field Sales Trainer (UK South)
 - [ ] https://sumup.com/careers/positions/8634773002?gh_jid=8634773002 | SumUp | Growth Associate - Bank & Lending
+
+- [ ] https://www.coinbase.com/careers/positions/8126896?gh_jid=8126896 | Coinbase | Product Designer II, Design Systems
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673312005 | Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://careers.hellofresh.com/global/en/job/8105178?gh_jid=8105178 | HelloFresh | Backend Engineer, Operations Technology
+- [ ] https://careers.hellofresh.com/global/en/job/8122789?gh_jid=8122789 | HelloFresh | Warehouse Associate
+- [ ] https://sumup.com/careers/positions/8699740002?gh_jid=8699740002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8704209002?gh_jid=8704209002 | SumUp | Field Sales Associate
+- [ ] https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd | Faculty | Research Scientist - AI Safety
+- [ ] https://jobs.ashbyhq.com/legora/7435614c-4ae8-4edd-8cae-00be6f583782 | Legora | Partnerships Associate
