@@ -582,3 +582,14 @@
 - [ ] https://sumup.com/careers/positions/8704209002?gh_jid=8704209002 | SumUp | Field Sales Associate
 - [ ] https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd | Faculty | Research Scientist - AI Safety
 - [ ] https://jobs.ashbyhq.com/legora/7435614c-4ae8-4edd-8cae-00be6f583782 | Legora | Partnerships Associate
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4723067005 | Razorpay | Forward Deployed Engineer
+- [ ] https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321 | Coinbase | Legal Ops Associate, OC Management
+- [ ] https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23 | Deepgram | Full Stack Web Developer, Marketing
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8511491002 | Databricks | Delivery Solutions Architect - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8129587?gh_jid=8129587 | HelloFresh | [HELLOCONNECT] Payroll Associate 
+- [ ] https://careers.hellofresh.com/global/en/job/8128171?gh_jid=8128171 | HelloFresh | Junior Facilitair Medewerker (v/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8127743?gh_jid=8127743 | HelloFresh | Operations Trainer 
+- [ ] https://sumup.com/careers/positions/7871972002?gh_jid=7871972002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004 | Isomorphic Labs | Integration Engineer (Third Party Systems), London
+- [ ] https://jobs.ashbyhq.com/synthesia/b7d301c9-f545-43b3-a4af-d31681aacd36 | Synthesia | Customer Support Associate - APAC
