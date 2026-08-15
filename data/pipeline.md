@@ -593,3 +593,10 @@
 - [ ] https://sumup.com/careers/positions/7871972002?gh_jid=7871972002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004 | Isomorphic Labs | Integration Engineer (Third Party Systems), London
 - [ ] https://jobs.ashbyhq.com/synthesia/b7d301c9-f545-43b3-a4af-d31681aacd36 | Synthesia | Customer Support Associate - APAC
+
+- [ ] https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004 | Figma | Product Designer, Design Systems
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002 | Databricks | Solutions Architect - Communications, Media, Entertainment & Gaming 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002 | Databricks | Specialist Solutions Architect - AI/ML
+- [ ] https://n26.com/en-eu/careers/positions/8129812?gh_jid=8129812 | N26 | Backend Engineer - Lending
+- [ ] https://careers.hellofresh.com/global/en/job/8128120?gh_jid=8128120 | HelloFresh | Systems Analyst
+- [ ] https://sumup.com/careers/positions/8370115002?gh_jid=8370115002 | SumUp | Commercial Terrain - Indépendant (Freelance)
