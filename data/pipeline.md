@@ -600,3 +600,6 @@
 - [ ] https://n26.com/en-eu/careers/positions/8129812?gh_jid=8129812 | N26 | Backend Engineer - Lending
 - [ ] https://careers.hellofresh.com/global/en/job/8128120?gh_jid=8128120 | HelloFresh | Systems Analyst
 - [ ] https://sumup.com/careers/positions/8370115002?gh_jid=8370115002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://sumup.com/careers/positions/8370141002?gh_jid=8370141002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf | Photoroom | Product ML Engineer
