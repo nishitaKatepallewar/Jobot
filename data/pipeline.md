@@ -603,3 +603,6 @@
 
 - [ ] https://sumup.com/careers/positions/8370141002?gh_jid=8370141002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf | Photoroom | Product ML Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390778008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://sumup.com/careers/positions/8370149002?gh_jid=8370149002 | SumUp | Commercial Terrain - Indépendant (Freelance)
