@@ -606,3 +606,21 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390778008 | Anthropic | Applied AI Architect, Industries 
 - [ ] https://sumup.com/careers/positions/8370149002?gh_jid=8370149002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8070886?gh_jid=8070886 | Rubrik | Payroll Industrial Trainee
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4724183005 | Razorpay | Associate, Startup Accounts
+- [ ] https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004 | Figma | Software Engineer - Application Platform
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a | ElevenLabs | Forward Deployed Engineer - Software Engineer - Germany
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Switzerland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440 | ElevenLabs | Forward Deployed Software Engineer - UAE
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390742008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://n26.com/en-eu/careers/positions/8132053?gh_jid=8132053 | N26 | Backend Engineer - Payments
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003 | Celonis | AI Engineer - Quality
+- [ ] https://careers.hellofresh.com/global/en/job/8136524?gh_jid=8136524 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://careers.hellofresh.com/global/en/job/8131220?gh_jid=8131220 | HelloFresh | Video Editor & AI Integration
+- [ ] https://careers.hellofresh.com/global/en/job/8132930?gh_jid=8132930 | HelloFresh | Warehouse Associate II
+- [ ] https://sumup.com/careers/positions/8370150002?gh_jid=8370150002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/qonto/21bf0ae1-b5b1-428a-b1e6-2cdb9476987e | Qonto | Full-Stack Engineer - People Products (Freelance)
+- [ ] https://jobs.ashbyhq.com/legora/e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d | Legora | Engagement Associate - Sydney 
