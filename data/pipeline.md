@@ -624,3 +624,13 @@
 - [ ] https://sumup.com/careers/positions/8370150002?gh_jid=8370150002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/qonto/21bf0ae1-b5b1-428a-b1e6-2cdb9476987e | Qonto | Full-Stack Engineer - People Products (Freelance)
 - [ ] https://jobs.ashbyhq.com/legora/e9ff9dde-62b4-4c8b-9c43-832ab60e3e9d | Legora | Engagement Associate - Sydney 
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391016008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390799008 | Anthropic | Product Engineer, Applied AI
+- [ ] https://careers.hellofresh.com/global/en/job/8135972?gh_jid=8135972 | HelloFresh | Supply Chain Coordinator
+- [ ] https://sumup.com/careers/positions/8467370002?gh_jid=8467370002 | SumUp | Commercial(e) Terrain Indépendant(e) 
+- [ ] https://sumup.com/careers/positions/8370147002?gh_jid=8370147002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/spotify/cab9bb55-7855-45ab-b62f-b40ac2b2cc77 | Spotify | Associate Ad Review Specialist Contractor (6 month Contract)
+- [ ] https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b | Pigment | Optimisation AI Scientist
