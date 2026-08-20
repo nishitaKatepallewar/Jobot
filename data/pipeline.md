@@ -634,3 +634,23 @@
 - [ ] https://sumup.com/careers/positions/8370147002?gh_jid=8370147002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/spotify/cab9bb55-7855-45ab-b62f-b40ac2b2cc77 | Spotify | Associate Ad Review Specialist Contractor (6 month Contract)
 - [ ] https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b | Pigment | Optimisation AI Scientist
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053 | Rubrik | Software Engineer - Cloud Native Protection
+- [ ] https://www.rubrik.com/company/careers/departments/job.8141057?gh_jid=8141057 | Rubrik | Value Solutions Engineer (Pre-sales)
+- [ ] https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574 | Coinbase | Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)
+- [ ] https://boards.greenhouse.io/figma/jobs/6037719004?gh_jid=6037719004 | Figma | Support Engineer, Content Systems
+- [ ] https://jobs.ashbyhq.com/elevenlabs/22d14f69-1a8c-4fc0-aa4d-8b10c62ee806 | ElevenLabs | Enterprise Solutions Engineer - Switzerland
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390765008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394958008 | Anthropic | Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390746008 | Anthropic | [India] Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390750008 | Anthropic | Partner Solutions Architect,Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247989008 | Anthropic | Solution Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390735008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd | Cohere | Applied Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (France)
+- [ ] https://helsing.ai/jobs/4813822101?gh_jid=4813822101 | Helsing | Systems Engineer V&V - Air
+- [ ] https://careers.hellofresh.com/global/en/job/8141398?gh_jid=8141398 | HelloFresh | [HELLOCONNECT] Payroll Associate
+- [ ] https://n26.com/en-eu/careers/positions/8138857?gh_jid=8138857 | N26 | Outsourcing Associate
+- [ ] https://jobs.ashbyhq.com/legora/ff80c470-33ab-453e-9ccb-c074447344d4 | Legora | Legal Engineering Associate
+- [ ] https://jobs.ashbyhq.com/legora/e81da259-89c3-41c5-ae5b-7dcc6c586b27 | Legora | Legal Engineering Associate 
