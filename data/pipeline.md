@@ -654,3 +654,14 @@
 - [ ] https://n26.com/en-eu/careers/positions/8138857?gh_jid=8138857 | N26 | Outsourcing Associate
 - [ ] https://jobs.ashbyhq.com/legora/ff80c470-33ab-453e-9ccb-c074447344d4 | Legora | Legal Engineering Associate
 - [ ] https://jobs.ashbyhq.com/legora/e81da259-89c3-41c5-ae5b-7dcc6c586b27 | Legora | Legal Engineering Associate 
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390754008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8735569002 | Databricks | 	Delivery Solutions Architect - Communications, Media, Entertainment & Games
+- [ ] https://jobs.ashbyhq.com/DeepL/71385f28-2d13-42e9-a8cc-f1af8c59b952 | DeepL | Commercial Account Executive | Italy or Spain (based in London)
+- [ ] https://n26.com/en-eu/careers/positions/8127501?gh_jid=8127501 | N26 | Steering & Planning Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8143859?gh_jid=8143859 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/8143462?gh_jid=8143462 | HelloFresh | Supply Chain Planner (f/m/x)
+- [ ] https://jobs.lever.co/pigment/373b9e9c-59a2-4e0b-91e8-cf1c49db444b | Pigment | Back-End Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb | Supabase | Developer Relations Engineer (New York, NY)
+- [ ] https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4 | Supabase | Developer Relations Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d | Supabase | Developer Relations Engineer (London, UK)
