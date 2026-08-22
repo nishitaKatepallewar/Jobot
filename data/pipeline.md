@@ -665,3 +665,16 @@
 - [ ] https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb | Supabase | Developer Relations Engineer (New York, NY)
 - [ ] https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4 | Supabase | Developer Relations Engineer
 - [ ] https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d | Supabase | Developer Relations Engineer (London, UK)
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4725938005 | Razorpay | Associate, Startup Hunting
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398753008 | Anthropic | Business Systems Analyst
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8737857002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002 | Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002 | Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)
+- [ ] https://helsing.ai/jobs/4953387101?gh_jid=4953387101 | Helsing | AI Research Engineer - GPU Simulation
+- [ ] https://n26.com/en-eu/careers/positions/8147446?gh_jid=8147446 | N26 | Data Engineer - Platform Engineering
+- [ ] https://n26.com/en-eu/careers/positions/8143662?gh_jid=8143662 | N26 | Srategy & Operations Associate - Customer Identity
+- [ ] https://n26.com/en-eu/careers/positions/8146880?gh_jid=8146880 | N26 | Strategic Partner Management Associate
+- [ ] https://n26.com/en-eu/careers/positions/8146844?gh_jid=8146844 | N26 | Strategy & Operations Associate - Customer Identity
+- [ ] https://careers.hellofresh.com/global/en/job/8098862?gh_jid=8098862 | HelloFresh | Warehouse Associate
+- [ ] https://sumup.com/careers/positions/8736602002?gh_jid=8736602002 | SumUp | Junior Commercial Analyst - Retail NPD
