@@ -678,3 +678,6 @@
 - [ ] https://n26.com/en-eu/careers/positions/8146844?gh_jid=8146844 | N26 | Strategy & Operations Associate - Customer Identity
 - [ ] https://careers.hellofresh.com/global/en/job/8098862?gh_jid=8098862 | HelloFresh | Warehouse Associate
 - [ ] https://sumup.com/careers/positions/8736602002?gh_jid=8736602002 | SumUp | Junior Commercial Analyst - Retail NPD
+
+- [ ] https://n26.com/en-eu/careers/positions/8138777?gh_jid=8138777 | N26 | Data Engineer - Platform Engineering
+- [ ] https://n26.com/en-eu/careers/positions/8143660?gh_jid=8143660 | N26 | Strategic Partner Management Associate
