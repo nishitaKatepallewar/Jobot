@@ -686,3 +686,17 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002 | Databricks | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)
 - [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector)
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716521005 | Razorpay | Associate, Enterprise Partnerships
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4724189005 | Glean | AI Data Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391336008 | Anthropic | Enterprise Account Executive - Retail/CPG
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5396384008 | Anthropic | IT Systems Engineer, Mobile Client Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400160008 | Anthropic | Software Engineer, Business Technology
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791403003?gh_jid=7791403003 | Celonis | Software Engineer
+- [ ] https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757 | N26 | IT Solutions Engineer - Google Cloud
+- [ ] https://careers.hellofresh.com/global/en/job/8155655?gh_jid=8155655 | HelloFresh | Sanitation Associate
+- [ ] https://sumup.com/careers/positions/8210441002?gh_jid=8210441002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8725207002 | Wayve | Full-Stack Software Engineer, Model Development Platform
+- [ ] https://jobs.ashbyhq.com/legora/42e89f02-54d8-4df8-bda8-4107bbb7bab5 | Legora | Solutions Engineer - Paris
+- [ ] https://jobs.ashbyhq.com/legora/33abe455-786f-4054-b315-140b16f33c1e | Legora | Solutions Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/legora/898c9e9f-74e2-4bb1-8ff2-ef23b8ab9452 | Legora | Solutions Engineer - Madrid
