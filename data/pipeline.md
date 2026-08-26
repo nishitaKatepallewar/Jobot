@@ -700,3 +700,19 @@
 - [ ] https://jobs.ashbyhq.com/legora/42e89f02-54d8-4df8-bda8-4107bbb7bab5 | Legora | Solutions Engineer - Paris
 - [ ] https://jobs.ashbyhq.com/legora/33abe455-786f-4054-b315-140b16f33c1e | Legora | Solutions Engineer - Munich
 - [ ] https://jobs.ashbyhq.com/legora/898c9e9f-74e2-4bb1-8ff2-ef23b8ab9452 | Legora | Solutions Engineer - Madrid
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004 | Figma | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404 | ElevenLabs | Strategic Account Executive - Switzerland - Consumer & Retail
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification 
+- [ ] https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra | Software Engineer, Agent
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=6151253004 | Boomi | Boomi - Integration Developer - 2
+- [ ] https://job-boards.greenhouse.io/hootsuite/jobs/8153299 | Hootsuite | Associate Legal Counsel - (12 Month Contract
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7816965003?gh_jid=7816965003 | Celonis | Associate Account Executive (Top Talent Sales Program - Lunar)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7972958003?gh_jid=7972958003 | Celonis | Enterprise AI Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/8157975?gh_jid=8157975 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8158004?gh_jid=8158004 | HelloFresh | Maintenance Technician III 
+- [ ] https://careers.hellofresh.com/global/en/job/8155028?gh_jid=8155028 | HelloFresh | Warehouse Associate
+- [ ] https://sumup.com/careers/positions/8729790002?gh_jid=8729790002 | SumUp | Employment Counsel Spain
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8746298002 | Wayve | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4960268101 | PhysicsX | Forward Deployed Software Engineer
