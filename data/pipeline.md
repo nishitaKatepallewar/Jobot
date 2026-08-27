@@ -716,3 +716,23 @@
 - [ ] https://sumup.com/careers/positions/8729790002?gh_jid=8729790002 | SumUp | Employment Counsel Spain
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8746298002 | Wayve | Software Engineer
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4960268101 | PhysicsX | Forward Deployed Software Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975 | Coinbase | Compliance, Trade Surveillance Associate
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755474002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8756203002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games 
+- [ ] https://n26.com/en-eu/careers/positions/8108866?gh_jid=8108866 | N26 | Backend Engineer - Agentic Platform
+- [ ] https://n26.com/en-eu/careers/positions/8161390?gh_jid=8161390 | N26 | Compliance and Prevention Associate (Complaints Management)
+- [ ] https://careers.hellofresh.com/global/en/job/8159178?gh_jid=8159178 | HelloFresh | Control Systems Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8159938?gh_jid=8159938 | HelloFresh | Fulfillment Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8146919?gh_jid=8146919 | HelloFresh | Junior Maintenance Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8140615?gh_jid=8140615 | HelloFresh | Kitchen Associate
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8756135002 | Wayve | Fleet Service and Maintenance Technician
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749904002 | Wayve | Machine Learning Engineer (Closed Loop)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749921002 | Wayve | Machine Learning Engineer (Synthetic Data)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6134265004 | Isomorphic Labs | Software Engineer (LLM Engineering), London
+- [ ] https://jobs.ashbyhq.com/synthesia/81b4693c-b8e1-4579-ab2f-8b20784d13e4 | Synthesia | Social Media Associate
+- [ ] https://jobs.ashbyhq.com/lovable/ac86ab57-ff2e-4a49-83f8-51dd6bbc2cbf | Lovable | AI Ops Engineer (FBOS)
+- [ ] https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023 | Supabase | OrioleDB Developer (AMER)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227672008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390791008 | Anthropic | Applied AI Strategist, EMEA
