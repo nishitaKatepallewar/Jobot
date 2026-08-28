@@ -736,3 +736,26 @@
 - [ ] https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023 | Supabase | OrioleDB Developer (AMER)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227672008 | Anthropic | Applied AI Architect
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390791008 | Anthropic | Applied AI Strategist, EMEA
+
+- [ ] https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730 | Coinbase | Software Engineer, CDP - Payment Acceptance 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2d7f9a7c-a9e6-4877-bb38-34e4d989054c | ElevenLabs | Research Engineer - Inference
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f | ElevenLabs | Research Engineer - Web Crawlers
+- [ ] https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed | ElevenLabs | Research Engineer - Data Infrastructure
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Developer Relations Documentation Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128123004 | Arize AI | Developer Relations Education Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5219967008 | Anthropic | Enterprise Account Executive - Retail / CPG / Trading
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885824003?gh_jid=7885824003 | Celonis | Associate (AI) Solution Consultant (UK) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7979056003?gh_jid=7979056003 | Celonis | Associate Applied (AI) Value Engineer (UK) - Orbit Program
+- [ ] https://n26.com/en-eu/careers/positions/7640893?gh_jid=7640893 | N26 | Backend Engineer - Engagement 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749219002 | Wayve | Application Software Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8164137?gh_jid=8164137 | HelloFresh | Contrôleur Qualité Agroalimentaire - (H/F/N)
+- [ ] https://careers.hellofresh.com/global/en/job/8164366?gh_jid=8164366 | HelloFresh | Control Systems Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8162817?gh_jid=8162817 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8162893?gh_jid=8162893 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8163027?gh_jid=8163027 | HelloFresh | Sanitation Associate 
+- [ ] https://careers.hellofresh.com/global/en/job/8163324?gh_jid=8163324 | HelloFresh | Shipping Associate 
+- [ ] https://careers.hellofresh.com/global/en/job/8163355?gh_jid=8163355 | HelloFresh | Warehouse Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8163251?gh_jid=8163251 | HelloFresh | Warehouse Associate 
+- [ ] https://jobs.lever.co/pigment/dad6777e-77e7-4885-b8cc-751ad141df6a | Pigment | Junior Backend Engineer
+- [ ] https://jobs.lever.co/pigment/fc3989dd-2ee1-48af-bf1b-8975a82693e4 | Pigment | Solution Consultant - Supply Chain
