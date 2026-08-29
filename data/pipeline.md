@@ -759,3 +759,7 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8163251?gh_jid=8163251 | HelloFresh | Warehouse Associate 
 - [ ] https://jobs.lever.co/pigment/dad6777e-77e7-4885-b8cc-751ad141df6a | Pigment | Junior Backend Engineer
 - [ ] https://jobs.lever.co/pigment/fc3989dd-2ee1-48af-bf1b-8975a82693e4 | Pigment | Solution Consultant - Supply Chain
+
+- [ ] https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441 | Coinbase | Software Engineer, Security Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
