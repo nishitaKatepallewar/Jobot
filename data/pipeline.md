@@ -763,3 +763,10 @@
 - [ ] https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441 | Coinbase | Software Engineer, Security Platform
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885985003?gh_jid=7885985003 | Celonis | Associate (AI) Solution Consultant (France) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7981557003?gh_jid=7981557003 | Celonis | Associate (AI) Solution Consultant (Nordics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7981565003?gh_jid=7981565003 | Celonis | Associate Applied (AI) Value Engineer (France) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885913003?gh_jid=7885913003 | Celonis | Associate Applied (AI) Value Engineer (Nordics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8158765 | GetYourGuide | Inside Sales - Thai Speaking
+- [ ] https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government
