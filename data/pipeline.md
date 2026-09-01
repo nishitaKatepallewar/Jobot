@@ -770,3 +770,8 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7885913003?gh_jid=7885913003 | Celonis | Associate Applied (AI) Value Engineer (Nordics) - Orbit Program
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8158765 | GetYourGuide | Inside Sales - Thai Speaking
 - [ ] https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582321002 | Databricks | Enterprise Account Executive - Retail 
+- [ ] https://boards.greenhouse.io/figma/jobs/6163045004?gh_jid=6163045004 | Figma | Account Executive, Federal - Federal Systems Integrators
+- [ ] https://careers.hellofresh.com/global/en/job/8142223?gh_jid=8142223 | HelloFresh | Operations Trainer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8763509002 | Wayve | Machine Learning Engineer, Performance Tooling
