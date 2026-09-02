@@ -775,3 +775,14 @@
 - [ ] https://boards.greenhouse.io/figma/jobs/6163045004?gh_jid=6163045004 | Figma | Account Executive, Federal - Federal Systems Integrators
 - [ ] https://careers.hellofresh.com/global/en/job/8142223?gh_jid=8142223 | HelloFresh | Operations Trainer
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8763509002 | Wayve | Machine Learning Engineer, Performance Tooling
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6167305004?gh_jid=6167305004 | Figma | GTM Systems Architect
+- [ ] https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037 | Coinbase | Software Engineer, Data Layer 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760 | ElevenLabs | Data Scientist - AI Safety
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
+- [ ] https://n26.com/en-eu/careers/positions/8166719?gh_jid=8166719 | N26 | Fraud Prevention Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8165507?gh_jid=8165507 | HelloFresh | Analyst, Supply Chain Planning
+- [ ] http://stability.ai/careers?gh_jid=4966000101 | Stability AI | Forward Deployed Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/3c75574c-f213-4e41-a172-ac08c85ed68e | Legora | Legal Engineering Operations Associate
+- [ ] https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045 | Supabase | Platform Engineer - Compute Capacity
+- [ ] https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60 | Supabase | Software Engineer - Branching
