@@ -786,3 +786,17 @@
 - [ ] https://jobs.ashbyhq.com/legora/3c75574c-f213-4e41-a172-ac08c85ed68e | Legora | Legal Engineering Operations Associate
 - [ ] https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045 | Supabase | Platform Engineer - Compute Capacity
 - [ ] https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60 | Supabase | Software Engineer - Branching
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729957005 | Razorpay | AI Engineer (Platform)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729979005 | Scale AI | Infrastructure Software Engineer, Apps Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8642617002 | Databricks | Infrastructure & Platform Specialist Solutions Architect (SSA) 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8733726002 | Databricks | Solutions Architect (Media, Entertainment and Agencies)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8768958002 | Databricks | Solutions Architect (Presales, Data & AI, Digital Native Business)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4729652005 | Glean | Solutions Engineer, UK
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7817391003?gh_jid=7817391003 | Celonis | Client Value Partner (Supply Chain  & Manufacturing)
+- [ ] https://n26.com/en-eu/careers/positions/8170936?gh_jid=8170936 | N26 | Backend Engineer
+- [ ] https://n26.com/en-eu/careers/positions/8172906?gh_jid=8172906 | N26 | Backend Engineer - Memberships
+- [ ] https://sumup.com/careers/positions/8781315002?gh_jid=8781315002 | SumUp | Sales Trainer (Field)
+- [ ] https://careers.hellofresh.com/global/en/job/8175074?gh_jid=8175074 | HelloFresh | Jr. Quality Control Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8175297?gh_jid=8175297 | HelloFresh | Ops Trainer
+- [ ] https://jobs.lever.co/palantir/a8eb96f4-e39b-4c0f-b42e-610165b88f34 | Palantir | Forward Deployed Software Engineer
