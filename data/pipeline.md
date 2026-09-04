@@ -800,3 +800,13 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8175074?gh_jid=8175074 | HelloFresh | Jr. Quality Control Associate
 - [ ] https://careers.hellofresh.com/global/en/job/8175297?gh_jid=8175297 | HelloFresh | Ops Trainer
 - [ ] https://jobs.lever.co/palantir/a8eb96f4-e39b-4c0f-b42e-610165b88f34 | Palantir | Forward Deployed Software Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619 | Coinbase | Threat Intelligence Platform Engineer
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729937005 | Razorpay | Associate, Learning Business Partner
+- [ ] https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9 | ElevenLabs | HPC Infrastructure Engineer - GPU Clusters
+- [ ] https://n26.com/en-eu/careers/positions/8169118?gh_jid=8169118 | N26 | Backend Engineer - Cards & Digital Wallets
+- [ ] https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710 | HelloFresh | Junior Recipe Developer (all genders)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8781421002 | Wayve | Software Engineer, Simulation 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8609932002 | Wayve | Vice President, AI Data 
+- [ ] https://jobs.ashbyhq.com/faculty/c160f683-9bca-4784-a298-ccaabc8b6e0f | Faculty | Full Stack Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/fe2e6e43-c60f-4d4d-8951-aca07ba42aba | Faculty | Platform Engineer
