@@ -810,3 +810,7 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8609932002 | Wayve | Vice President, AI Data 
 - [ ] https://jobs.ashbyhq.com/faculty/c160f683-9bca-4784-a298-ccaabc8b6e0f | Faculty | Full Stack Software Engineer 
 - [ ] https://jobs.ashbyhq.com/faculty/fe2e6e43-c60f-4d4d-8951-aca07ba42aba | Faculty | Platform Engineer
+
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101 | Speechmatics | ML Data & Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003 | Celonis | Associate (AI) Solution Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/8180777?gh_jid=8180777 | HelloFresh | Production Associate
