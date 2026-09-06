@@ -814,3 +814,5 @@
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101 | Speechmatics | ML Data & Platform Engineer
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003 | Celonis | Associate (AI) Solution Consultant
 - [ ] https://careers.hellofresh.com/global/en/job/8180777?gh_jid=8180777 | HelloFresh | Production Associate
+
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer
