@@ -816,3 +816,7 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8180777?gh_jid=8180777 | HelloFresh | Production Associate
 
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8700402002 | Databricks | Named Core Account Executive - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://n26.com/en-eu/careers/positions/8184721?gh_jid=8184721 | N26 | AFC Associate - SAR Delegate (Déclarant Tracfin)
