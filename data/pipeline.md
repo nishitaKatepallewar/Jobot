@@ -820,3 +820,8 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8700402002 | Databricks | Named Core Account Executive - Retail
 - [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra | Software Engineer, Agent (New Grad 2027)
 - [ ] https://n26.com/en-eu/careers/positions/8184721?gh_jid=8184721 | N26 | AFC Associate - SAR Delegate (Déclarant Tracfin)
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727308005 | Razorpay |  Associate, Legal
+- [ ] https://careers.hellofresh.com/global/en/job/8185403?gh_jid=8185403 | HelloFresh | Supply Chain Planner (f/m/x)
+- [ ] https://sumup.com/careers/positions/8785333002?gh_jid=8785333002 | SumUp | Backend Engineer (Golang) - Bank Balance
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004 | Isomorphic Labs | Research Engineer (LLM Performance), London
