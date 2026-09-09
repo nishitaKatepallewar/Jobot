@@ -825,3 +825,14 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8185403?gh_jid=8185403 | HelloFresh | Supply Chain Planner (f/m/x)
 - [ ] https://sumup.com/careers/positions/8785333002?gh_jid=8785333002 | SumUp | Backend Engineer (Golang) - Bank Balance
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004 | Isomorphic Labs | Research Engineer (LLM Performance), London
+
+- [ ] https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946 | Coinbase | Software Engineer- Money Movement 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4731630005 | Scale AI | Software Engineer, Platform 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117589008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416882008 | Anthropic | Research Engineer, Takeoff Intel
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003 | Celonis | Associate Applied (AI) Value Engineer (Japan) - Orbit Program
+- [ ] https://n26.com/en-eu/careers/positions/8188078?gh_jid=8188078 | N26 | Compliance and Prevention Associate (Complaints Management) - (Relocation to Madrid)
+- [ ] https://careers.hellofresh.com/global/en/job/8185356?gh_jid=8185356 | HelloFresh | Supply Chain Planner (f/m/x)
+- [ ] https://sumup.com/careers/positions/8789067002?gh_jid=8789067002 | SumUp | Backend Engineer (Golang) - Transfers EU
+- [ ] https://sumup.com/careers/positions/8699311002?gh_jid=8699311002 | SumUp | Commercial(e) Terrain
+- [ ] https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e | Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions
