@@ -836,3 +836,17 @@
 - [ ] https://sumup.com/careers/positions/8789067002?gh_jid=8789067002 | SumUp | Backend Engineer (Golang) - Transfers EU
 - [ ] https://sumup.com/careers/positions/8699311002?gh_jid=8699311002 | SumUp | Commercial(e) Terrain
 - [ ] https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e | Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/17c06970-0b47-43bc-beb7-ce34cc98f93c | ElevenLabs | Full-Stack Engineer - Creative Studio
+- [ ] https://jobs.ashbyhq.com/deepgram/dcbd7bf3-59b0-4ea8-a5e8-425e01f8fd53 | Deepgram | Associate General Counsel Corporate
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413642008 | Anthropic | Applied AI Architect, Beneficial Deployments (Life Sciences)
+- [ ] https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839 | Coinbase | Software Engineer, Developer Infrastructure
+- [ ] https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Middle East)
+- [ ] https://helsing.ai/jobs/4972262101?gh_jid=4972262101 | Helsing | Systems Engineer - Space
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885977003?gh_jid=7885977003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7990158003?gh_jid=7990158003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791283003?gh_jid=7791283003 | Celonis | Software Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8189300?gh_jid=8189300 | HelloFresh | Quality Control Associate
+- [ ] https://jobs.lever.co/qonto/cb08b718-ee57-4a19-bff5-b97ad448b7a0 | Qonto | Backend/Fullstack Engineer - remote friendly
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785464002 | Wayve | Platform Engineer, AI Enablement 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | Scale AI | Forward Deployed Engineer, Gen AI
