@@ -850,3 +850,9 @@
 - [ ] https://jobs.lever.co/qonto/cb08b718-ee57-4a19-bff5-b97ad448b7a0 | Qonto | Backend/Fullstack Engineer - remote friendly
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8785464002 | Wayve | Platform Engineer, AI Enablement 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | Scale AI | Forward Deployed Engineer, Gen AI
+
+- [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4697606006 | Couchbase | Strategic Enterprise Account Executive – India(Mumbai)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5417967008 | Anthropic | External Affairs, South Korea
+- [ ] https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673 | Cohere | Software Engineer, Data Infrastructure
+- [ ] https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777 | Coinbase | Complaints Analyst II
+- [ ] https://careers.hellofresh.com/global/en/job/8189638?gh_jid=8189638 | HelloFresh | Quality Control Associate (12 Months Contract) 
