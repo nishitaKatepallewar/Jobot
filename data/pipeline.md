@@ -856,3 +856,13 @@
 - [ ] https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673 | Cohere | Software Engineer, Data Infrastructure
 - [ ] https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777 | Coinbase | Complaints Analyst II
 - [ ] https://careers.hellofresh.com/global/en/job/8189638?gh_jid=8189638 | HelloFresh | Quality Control Associate (12 Months Contract) 
+
+- [ ] https://www.coinbase.com/careers/positions/7151562?gh_jid=7151562 | Coinbase | Complaints Analyst II
+- [ ] https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316 | Deepgram | People AI & Automation Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8788266002 | Databricks | Solutions Architect - Hunter (Communications, Media, Entertainment and Games)
+- [ ] https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895 | HelloFresh | Backend Engineer, Consumer
+- [ ] https://careers.hellofresh.com/global/en/job/8193389?gh_jid=8193389 | HelloFresh | Quality Control Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8195632?gh_jid=8195632 | HelloFresh | Supply Chain Planner - Packaging (f/m/x)
+- [ ] https://sumup.com/careers/positions/8706533002?gh_jid=8706533002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8793806002 | Wayve | People Operations Associate
+- [ ] https://jobs.ashbyhq.com/lovable/a0ff5040-7acb-4c3e-b32a-191dee540617 | Lovable | Corporate Communications & Public Affairs (Europe)
