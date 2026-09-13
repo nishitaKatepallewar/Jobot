@@ -866,3 +866,5 @@
 - [ ] https://sumup.com/careers/positions/8706533002?gh_jid=8706533002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8793806002 | Wayve | People Operations Associate
 - [ ] https://jobs.ashbyhq.com/lovable/a0ff5040-7acb-4c3e-b32a-191dee540617 | Lovable | Corporate Communications & Public Affairs (Europe)
+
+- [ ] https://www.coinbase.com/careers/positions/6873377?gh_jid=6873377 | Coinbase | Complaints Analyst II
