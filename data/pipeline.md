@@ -868,3 +868,10 @@
 - [ ] https://jobs.ashbyhq.com/lovable/a0ff5040-7acb-4c3e-b32a-191dee540617 | Lovable | Corporate Communications & Public Affairs (Europe)
 
 - [ ] https://www.coinbase.com/careers/positions/6873377?gh_jid=6873377 | Coinbase | Complaints Analyst II
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730862005 | Scale AI | Software Engineer - New Grad
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5423029008 | Anthropic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975 | Cohere | Software Engineer, Security Agents
+- [ ] https://sumup.com/careers/positions/8799286002?gh_jid=8799286002 | SumUp | Junior Complaints & Compliance Specialist
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785371002 | Wayve | Machine Learning Engineer, Driving Product 
+- [ ] https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b | Supabase | Platform Engineer, Edge & Networking
