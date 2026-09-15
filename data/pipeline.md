@@ -875,3 +875,17 @@
 - [ ] https://sumup.com/careers/positions/8799286002?gh_jid=8799286002 | SumUp | Junior Complaints & Compliance Specialist
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8785371002 | Wayve | Machine Learning Engineer, Driving Product 
 - [ ] https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b | Supabase | Platform Engineer, Edge & Networking
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731682005 | Razorpay | Associate Technical Consultant 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002 | Databricks | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390902008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://jobs.ashbyhq.com/langchain/0ee73994-b8a3-4a75-9675-da536abd3e10 | LangChain | Deployed Engineer, Professional Services (APAC)
+- [ ] https://jobs.lever.co/palantir/aaee4d20-7f1b-48b1-ad23-d52ffbf42a49 | Palantir | Backend Software Engineer - Infrastructure, Foundations
+- [ ] https://helsing.ai/jobs/4976480101?gh_jid=4976480101 | Helsing | Junior Software Engineer 
+- [ ] https://helsing.ai/jobs/4972043101?gh_jid=4972043101 | Helsing | Software Engineer (Early Careers)
+- [ ] https://careers.hellofresh.com/global/en/job/8193519?gh_jid=8193519 | HelloFresh | Production Associate
+- [ ] https://sumup.com/careers/positions/7988614002?gh_jid=7988614002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8799284002?gh_jid=8799284002 | SumUp | Junior Complaints & Compliance Specialist
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8809685002 | Wayve | Machine Learning Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8805659002 | Wayve | Platform Engineer
+- [ ] https://jobs.ashbyhq.com/legora/e97abb73-204d-4f34-b4d1-7f2690b5a030 | Legora | Legal Engineer - Applied AI Knowledge 
