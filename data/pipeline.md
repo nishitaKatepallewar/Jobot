@@ -889,3 +889,18 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8809685002 | Wayve | Machine Learning Engineer
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8805659002 | Wayve | Platform Engineer
 - [ ] https://jobs.ashbyhq.com/legora/e97abb73-204d-4f34-b4d1-7f2690b5a030 | Legora | Legal Engineer - Applied AI Knowledge 
+
+- [ ] https://www.coinbase.com/careers/positions/7407956?gh_jid=7407956 | Coinbase | Complaints Analyst III
+- [ ] https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374 | Coinbase | Software Engineer
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4733888005 | Razorpay | Junior Associate, Enterprise Partnerships
+- [ ] https://apply.workable.com/semios/jobs/view/B6F6C7D729 | Semios | Corporate Development Associate (Interim)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8813516002 | Databricks | AI Forward Deployed Engineer - France
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8813514002 | Databricks |  AI Forward Deployed Engineer - Germany
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8813464002 | Databricks | AI Forward Deployed Engineer - Netherlands
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002 | Databricks | AI Forward Deployed Engineer - Sweden
+- [ ] https://sumup.com/careers/positions/7988641002?gh_jid=7988641002 | SumUp | Commercial(e) Terrain Indépendant(e) 
+- [ ] https://sumup.com/careers/positions/8354985002?gh_jid=8354985002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/pigment/25e5ad5f-e647-4878-8079-004d30fd38f4 | Pigment | Solution Consultant, Supply Chain - Germany
+- [ ] https://jobs.lever.co/pigment/31476caf-6df2-4d17-8d33-62d548650bec | Pigment | Solution Consultant, Supply Chain - London
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8752478002 | Wayve | Machine Learning Engineer, Performance Tooling
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6138709004 | Hightouch | Enterprise Account Executive, Dubai
