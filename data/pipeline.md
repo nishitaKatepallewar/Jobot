@@ -904,3 +904,8 @@
 - [ ] https://jobs.lever.co/pigment/31476caf-6df2-4d17-8d33-62d548650bec | Pigment | Solution Consultant, Supply Chain - London
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8752478002 | Wayve | Machine Learning Engineer, Performance Tooling
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6138709004 | Hightouch | Enterprise Account Executive, Dubai
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5425724008 | Anthropic | Associate Solutions Architect
+- [ ] https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874 | N26 | Junior Credit Associate
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8815521002 | Wayve | Trainer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6195151004 | Hightouch | Forward Deployed Creative Designer, Email 
