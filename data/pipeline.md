@@ -909,3 +909,8 @@
 - [ ] https://n26.com/en-eu/careers/positions/8184874?gh_jid=8184874 | N26 | Junior Credit Associate
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8815521002 | Wayve | Trainer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6195151004 | Hightouch | Forward Deployed Creative Designer, Email 
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426933008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0 | Cohere | Software Engineer, Security
+- [ ] https://careers.hellofresh.com/global/en/job/8211976?gh_jid=8211976 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8209827?gh_jid=8209827 | HelloFresh | Warehouse Associate II
