@@ -914,3 +914,8 @@
 - [ ] https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0 | Cohere | Software Engineer, Security
 - [ ] https://careers.hellofresh.com/global/en/job/8211976?gh_jid=8211976 | HelloFresh | Maintenance Technician II
 - [ ] https://careers.hellofresh.com/global/en/job/8209827?gh_jid=8209827 | HelloFresh | Warehouse Associate II
+
+- [ ] https://n26.com/en-eu/careers/positions/8203585?gh_jid=8203585 | N26 | AFC Compliance Controls and Reviews - Associate
+- [ ] https://jobs.lever.co/qonto/a6014712-8e9e-4f6d-868e-0bc6bfa298cc | Qonto | Data Platform Engineer
+- [ ] https://sumup.com/careers/positions/8118615002?gh_jid=8118615002 | SumUp | Commercial Terrain- Nouvelle Aquitaine Bordeaux
+- [ ] https://jobs.ashbyhq.com/lovable/77326507-b4dd-4239-89b6-85b077baeeb5 | Lovable | Software Engineer, Product (Integration Platform)
