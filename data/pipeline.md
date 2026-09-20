@@ -919,3 +919,5 @@
 - [ ] https://jobs.lever.co/qonto/a6014712-8e9e-4f6d-868e-0bc6bfa298cc | Qonto | Data Platform Engineer
 - [ ] https://sumup.com/careers/positions/8118615002?gh_jid=8118615002 | SumUp | Commercial Terrain- Nouvelle Aquitaine Bordeaux
 - [ ] https://jobs.ashbyhq.com/lovable/77326507-b4dd-4239-89b6-85b077baeeb5 | Lovable | Software Engineer, Product (Integration Platform)
+
+- [ ] https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445 | N26 | AFC Compliance Controls and Reviews - Associate
