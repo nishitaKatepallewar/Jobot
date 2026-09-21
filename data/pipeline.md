@@ -921,3 +921,10 @@
 - [ ] https://jobs.ashbyhq.com/lovable/77326507-b4dd-4239-89b6-85b077baeeb5 | Lovable | Software Engineer, Product (Integration Platform)
 
 - [ ] https://n26.com/en-eu/careers/positions/8213445?gh_jid=8213445 | N26 | AFC Compliance Controls and Reviews - Associate
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736136005 | Razorpay | Associate, Mid Market Sales
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424310008 | Anthropic | Applied AI Architect
+- [ ] https://helsing.ai/jobs/4981320101?gh_jid=4981320101 | Helsing | Careers Fair - Schwieberdingen
+- [ ] https://careers.hellofresh.com/global/en/job/8213141?gh_jid=8213141 | HelloFresh | Coordinateur Supply Chain - (H/F/N)
+- [ ] https://sumup.com/careers/positions/8827033002?gh_jid=8827033002 | SumUp | Sales Trainer
+- [ ] https://jobs.ashbyhq.com/legora/fdecebdd-ae00-4408-9fa2-88909bdb364d | Legora | Legal Engineer, Law Firms and In-House, Dubai
