@@ -928,3 +928,10 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8213141?gh_jid=8213141 | HelloFresh | Coordinateur Supply Chain - (H/F/N)
 - [ ] https://sumup.com/careers/positions/8827033002?gh_jid=8827033002 | SumUp | Sales Trainer
 - [ ] https://jobs.ashbyhq.com/legora/fdecebdd-ae00-4408-9fa2-88909bdb364d | Legora | Legal Engineer, Law Firms and In-House, Dubai
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004 | Figma | Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7995509003?gh_jid=7995509003 | Celonis | Associate Applied (AI) Value Engineer (APAC) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784367003?gh_jid=7784367003 | Celonis | Associate Value Engineer (Orbit- India)
+- [ ] https://careers.hellofresh.com/global/en/job/8214658?gh_jid=8214658 | HelloFresh |  Quality Control Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8220705?gh_jid=8220705 | HelloFresh | Quality Control Associate
+- [ ] https://jobs.ashbyhq.com/legora/e3d34ce6-deee-45f7-beba-490ce2edd275 | Legora | GTM Associate - Public Sector
