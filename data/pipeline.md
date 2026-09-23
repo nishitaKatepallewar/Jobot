@@ -935,3 +935,15 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8214658?gh_jid=8214658 | HelloFresh |  Quality Control Associate
 - [ ] https://careers.hellofresh.com/global/en/job/8220705?gh_jid=8220705 | HelloFresh | Quality Control Associate
 - [ ] https://jobs.ashbyhq.com/legora/e3d34ce6-deee-45f7-beba-490ce2edd275 | Legora | GTM Associate - Public Sector
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736977005 | Razorpay | Junior Associate, Brand Marketing
+- [ ] https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923 | Coinbase | Associate General Counsel, Privacy
+- [ ] https://boards.greenhouse.io/figma/jobs/6166497004?gh_jid=6166497004 | Figma | Software Engineer - Machine Learning (London, United Kingdom)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6188400004 | Vercel | Software Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432573008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432575008 | Anthropic | Applied AI Engineer, Startups
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8002490003?gh_jid=8002490003 | Celonis | AI Product Engineer (Demo)
+- [ ] https://careers.hellofresh.com/global/en/job/8189976?gh_jid=8189976 | HelloFresh | Associate Industrial Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8187861?gh_jid=8187861 | HelloFresh | Maintenance Fitter
+- [ ] https://jobs.ashbyhq.com/faculty/9dc456fe-0ef7-480e-a09e-91b7809bb459 | Faculty | Associate
+- [ ] https://jobs.ashbyhq.com/legora/fe1faac6-5252-40b0-bb5f-35ef11c08af6 | Legora | GTM Associate - Munich
