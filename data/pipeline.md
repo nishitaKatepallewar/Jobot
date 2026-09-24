@@ -947,3 +947,10 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8187861?gh_jid=8187861 | HelloFresh | Maintenance Fitter
 - [ ] https://jobs.ashbyhq.com/faculty/9dc456fe-0ef7-480e-a09e-91b7809bb459 | Faculty | Associate
 - [ ] https://jobs.ashbyhq.com/legora/fe1faac6-5252-40b0-bb5f-35ef11c08af6 | Legora | GTM Associate - Munich
+
+- [ ] https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393 | Coinbase | Associate General Counsel, Privacy
+- [ ] https://helsing.ai/jobs/4983549101?gh_jid=4983549101 | Helsing | Systems Engineer
+- [ ] https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e | Palantir | Software Engineer, New Grad
+- [ ] https://jobs.ashbyhq.com/faculty/615b975b-024a-401e-98c4-6461874369d0 | Faculty | Associate
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6206426004 | Hightouch | Deployment Architect - Email & SMS / Messaging
+- [ ] https://jobs.ashbyhq.com/workos/ffba59a1-cead-4231-bd2d-a24649c6a3b9 | WorkOS | Software Engineer - Infrastructure Security
