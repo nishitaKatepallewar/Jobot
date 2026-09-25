@@ -954,3 +954,16 @@
 - [ ] https://jobs.ashbyhq.com/faculty/615b975b-024a-401e-98c4-6461874369d0 | Faculty | Associate
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6206426004 | Hightouch | Deployment Architect - Email & SMS / Messaging
 - [ ] https://jobs.ashbyhq.com/workos/ffba59a1-cead-4231-bd2d-a24649c6a3b9 | WorkOS | Software Engineer - Infrastructure Security
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8783602002 | Databricks | Named Core Account Executive - Thailand
+- [ ] https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Agentic Engineering Platform Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8231625?gh_jid=8231625 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924 | HelloFresh | Supply Chain Planning Working Student (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8128570?gh_jid=8128570 | HelloFresh | Systems Analyst
+- [ ] https://sumup.com/careers/positions/8118576002?gh_jid=8118576002 | SumUp | Commercial(e) Terrain Nantes
+- [ ] https://sumup.com/careers/positions/8118535002?gh_jid=8118535002 | SumUp | Commercial(e) Terrain Rennes
+- [ ] https://jobs.lever.co/palantir/4056c8f6-0e6a-43f7-b387-4a97bd3dbb19 | Palantir | Software Engineer – Query Engines
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8842721002 | Wayve | Platform Engineer, SDO
+- [ ] https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e | Legora | AI Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207542004 | Hightouch | Forward Deployed Architect
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207539004 | Hightouch | Forward Deployed Engineer
