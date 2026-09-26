@@ -967,3 +967,10 @@
 - [ ] https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e | Legora | AI Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207542004 | Hightouch | Forward Deployed Architect
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207539004 | Hightouch | Forward Deployed Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/7182060?gh_jid=7182060 | Coinbase | Complaints Analyst III
+- [ ] https://www.coinbase.com/careers/positions/8232346?gh_jid=8232346 | Coinbase | Trade Surveillance Associate
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8233486 | Contentful | Software Engineer, Applied AI Solutions
+- [ ] https://careers.hellofresh.com/global/en/job/8234489?gh_jid=8234489 | HelloFresh | Warehouse Associate [AM]
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8822896002 | Wayve | Associate Talent Partner, Fleet Operations
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6208612004 | Hightouch | AI Strategy Consultant 
