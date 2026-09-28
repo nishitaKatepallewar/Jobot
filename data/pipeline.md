@@ -974,3 +974,10 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8234489?gh_jid=8234489 | HelloFresh | Warehouse Associate [AM]
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8822896002 | Wayve | Associate Talent Partner, Fleet Operations
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6208612004 | Hightouch | AI Strategy Consultant 
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435282008 | Anthropic | Applied AI Engineer, DNB
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5354765008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432583008 | Anthropic | [London] Applied AI Architect, Partnerships
+- [ ] https://careers.hellofresh.com/global/en/job/8234103?gh_jid=8234103 | HelloFresh | Category Management Graduate
+- [ ] https://jobs.ashbyhq.com/faculty/e7ec5a17-5a8a-4056-8e40-d7ee1d84258b | Faculty | Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/be8d39ac-a346-41b6-b57c-f8fb9b911423 | Faculty | Full Stack Software Engineer
