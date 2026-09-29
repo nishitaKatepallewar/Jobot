@@ -981,3 +981,15 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8234103?gh_jid=8234103 | HelloFresh | Category Management Graduate
 - [ ] https://jobs.ashbyhq.com/faculty/e7ec5a17-5a8a-4056-8e40-d7ee1d84258b | Faculty | Machine Learning Engineer
 - [ ] https://jobs.ashbyhq.com/faculty/be8d39ac-a346-41b6-b57c-f8fb9b911423 | Faculty | Full Stack Software Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432554008 | Anthropic | Applied AI Architects, Partner
+- [ ] https://n26.com/en-eu/careers/positions/8237187?gh_jid=8237187 | N26 | Banking Operations Associate – Claims
+- [ ] https://careers.hellofresh.com/global/en/job/8236666?gh_jid=8236666 | HelloFresh | Category Management Graduate
+- [ ] https://careers.hellofresh.com/global/en/job/8237400?gh_jid=8237400 | HelloFresh | Jr. Quality Control Associate (PM Shift)
+- [ ] https://careers.hellofresh.com/global/en/job/8237331?gh_jid=8237331 | HelloFresh | Production Associate (PM Shift)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7989831003?gh_jid=7989831003 | Celonis | Associate Competitive Value Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/ac225749-86c6-44cc-aa32-e847fc25c7f9 | Faculty | Machine Learning Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8792853002 | Databricks | Customer Enablement Architect (Capability Engineering & AI Adoption)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8855360002 | Databricks | Specialist Solutions Architect (SSA) (Cloud Infrastructure)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7698278002 | Databricks | Strategic Enterprise Account Executive - Retail Vertical 
+- [ ] https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7 | Spotify | Backend Engineer II - Data Platform
