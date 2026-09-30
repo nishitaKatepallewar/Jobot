@@ -993,3 +993,14 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8855360002 | Databricks | Specialist Solutions Architect (SSA) (Cloud Infrastructure)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7698278002 | Databricks | Strategic Enterprise Account Executive - Retail Vertical 
 - [ ] https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7 | Spotify | Backend Engineer II - Data Platform
+
+- [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4673228006 | Couchbase | Software Engineer II
+- [ ] https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522 | Coinbase | Software Engineer, CDP - Foundations 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002 | Databricks | IT Software Engineer, Infrastructure
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8855804002 | Databricks | Strategic Account Executive - Retail vertical 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439499008 | Anthropic | Applied AI Architects, Partner 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439369008 | Anthropic | Data Center Global Repairs Program Support
+- [ ] https://careers.hellofresh.com/global/en/job/8242765?gh_jid=8242765 | HelloFresh | Control Systems Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8242779?gh_jid=8242779 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8242783?gh_jid=8242783 | HelloFresh | Maintenance Technician III 
+- [ ] https://jobs.ashbyhq.com/legora/eac71565-6fd2-40e6-a50c-7c4ea009e286 | Legora | Solutions Engineer
