@@ -1004,3 +1004,10 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8242779?gh_jid=8242779 | HelloFresh | Maintenance Technician II
 - [ ] https://careers.hellofresh.com/global/en/job/8242783?gh_jid=8242783 | HelloFresh | Maintenance Technician III 
 - [ ] https://jobs.ashbyhq.com/legora/eac71565-6fd2-40e6-a50c-7c4ea009e286 | Legora | Solutions Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576 | Coinbase | Experiential Marketing Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8245412?gh_jid=8245412 | HelloFresh | [HELLOCONNECT] People Shared Services Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8243032?gh_jid=8243032 | HelloFresh | Maintenance Technician I 
+- [ ] https://helsing.ai/jobs/4995351101?gh_jid=4995351101 | Helsing | Systems Engineer - Armament Control System
+- [ ] https://helsing.ai/jobs/4995384101?gh_jid=4995384101 | Helsing | Systems Engineer - Low Observability Testing
+- [ ] https://helsing.ai/jobs/4995343101?gh_jid=4995343101 | Helsing | Systems Engineer - Weapon Integration
