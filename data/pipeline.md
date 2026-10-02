@@ -1011,3 +1011,9 @@
 - [ ] https://helsing.ai/jobs/4995351101?gh_jid=4995351101 | Helsing | Systems Engineer - Armament Control System
 - [ ] https://helsing.ai/jobs/4995384101?gh_jid=4995384101 | Helsing | Systems Engineer - Low Observability Testing
 - [ ] https://helsing.ai/jobs/4995343101?gh_jid=4995343101 | Helsing | Systems Engineer - Weapon Integration
+
+- [ ] https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278 | Coinbase | Software Engineer, CDP - Stablecoin
+- [ ] https://helsing.ai/jobs/4995372101?gh_jid=4995372101 | Helsing | Systems Engineer - Armament Control System Testing
+- [ ] https://careers.hellofresh.com/global/en/job/8247486?gh_jid=8247486 | HelloFresh | Warehouse Associate I
+- [ ] https://sumup.com/careers/positions/8691015002?gh_jid=8691015002 | SumUp | Sales Trainer - Inside Sales & Account Management (Fixed term)
+- [ ] https://jobs.ashbyhq.com/faculty/ac255dcf-1e7b-453a-891f-84a778e9521e | Faculty | Software Engineer (Safety) 
