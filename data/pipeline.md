@@ -1017,3 +1017,7 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8247486?gh_jid=8247486 | HelloFresh | Warehouse Associate I
 - [ ] https://sumup.com/careers/positions/8691015002?gh_jid=8691015002 | SumUp | Sales Trainer - Inside Sales & Account Management (Fixed term)
 - [ ] https://jobs.ashbyhq.com/faculty/ac255dcf-1e7b-453a-891f-84a778e9521e | Faculty | Software Engineer (Safety) 
+
+- [ ] https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775 | Coinbase | Broker Dealer Operations, Associate
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4739466005 | Glean | Content Systems Engineer, Technical Documentation
+- [ ] https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36 | Lovable | Software Engineer, Growth (Marketing)
