@@ -1021,3 +1021,9 @@
 - [ ] https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775 | Coinbase | Broker Dealer Operations, Associate
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4739466005 | Glean | Content Systems Engineer, Technical Documentation
 - [ ] https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36 | Lovable | Software Engineer, Growth (Marketing)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - United Kingdom
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8771700002 | Databricks | Recruiter, Field Engineering & FDE
+- [ ] https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715 | N26 | Strategy & Operations Associate: Customer Risk Lifecycle
+- [ ] https://jobs.ashbyhq.com/lovable/ef383f78-4d6b-4226-8902-8d4dab2f6a47 | Lovable | Performance Marketer, Paid Search
+- [ ] https://careers.hellofresh.com/global/en/job/8256112?gh_jid=8256112 | HelloFresh | Sanitation Associate- Phoenix 
