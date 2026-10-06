@@ -1027,3 +1027,18 @@
 - [ ] https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715 | N26 | Strategy & Operations Associate: Customer Risk Lifecycle
 - [ ] https://jobs.ashbyhq.com/lovable/ef383f78-4d6b-4226-8902-8d4dab2f6a47 | Lovable | Performance Marketer, Paid Search
 - [ ] https://careers.hellofresh.com/global/en/job/8256112?gh_jid=8256112 | HelloFresh | Sanitation Associate- Phoenix 
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407 | Rubrik | Software Engineer- SaaS O365
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4739199005 | Razorpay | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002 | Databricks | Data+AI Workforce Transformation Practitioner — Customer Delivery
+- [ ] https://jobs.ashbyhq.com/elevenlabs/90cc8a34-1707-4aef-b509-94f94389d149 | ElevenLabs | Systems Architect - APAC 
+- [ ] https://apply.workable.com/semios/jobs/view/4B5D1FB613 | Semios | Software Developer Co-op
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8014300003?gh_jid=8014300003 | Celonis | Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885993003?gh_jid=7885993003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://careers.hellofresh.com/global/en/job/8258282?gh_jid=8258282 | HelloFresh | Maintenance Technician
+- [ ] https://careers.hellofresh.com/global/en/job/8248452?gh_jid=8248452 | HelloFresh | Quality Control Associate (12 Months Contract)
+- [ ] https://sumup.com/careers/positions/7871974002?gh_jid=7871974002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6217963004 | Isomorphic Labs | Software Engineer (Compute Efficiency), London
+- [ ] https://jobs.ashbyhq.com/lovable/5757fd07-a192-4986-8cdc-1cded652d49d | Lovable | AI Ops Engineer (Marketing)
+- [ ] https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05 | Spotify | Backend Engineer - Data Platform
+- [ ] https://jobs.lever.co/spotify/71eb64a0-ce99-4166-8462-bad3901a967c | Spotify | Backend Engineer - Platform Security
