@@ -1042,3 +1042,17 @@
 - [ ] https://jobs.ashbyhq.com/lovable/5757fd07-a192-4986-8cdc-1cded652d49d | Lovable | AI Ops Engineer (Marketing)
 - [ ] https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05 | Spotify | Backend Engineer - Data Platform
 - [ ] https://jobs.lever.co/spotify/71eb64a0-ce99-4166-8462-bad3901a967c | Spotify | Backend Engineer - Platform Security
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200 | Rubrik | Software Engineer - Cloud: Azure
+- [ ] https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945 | ElevenLabs | Full-stack Engineer - Creative Agents
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445760008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 | Anthropic | IT Systems Engineer, Client Platform Engineer, macOS
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8615016002 | Databricks | Solutions Architect - Retail, Consumer Goods, Travel & Hospitality 
+- [ ] https://sumup.com/careers/positions/8355673002?gh_jid=8355673002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) 
+- [ ] https://careers.hellofresh.com/global/en/job/8248560?gh_jid=8248560 | HelloFresh | Brand Marketing Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8259243?gh_jid=8259243 | HelloFresh | Maintenance Tech I 
+- [ ] https://careers.hellofresh.com/global/en/job/8259161?gh_jid=8259161 | HelloFresh | Maintenance Technician I (PM Shift)
+- [ ] https://jobs.ashbyhq.com/lovable/3636e123-2f93-4605-adce-a89af78ed4fd | Lovable | Performance Marketer, Paid Social
+- [ ] https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45 | Supabase | Platform Engineer:Data
