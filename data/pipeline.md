@@ -1056,3 +1056,14 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8259161?gh_jid=8259161 | HelloFresh | Maintenance Technician I (PM Shift)
 - [ ] https://jobs.ashbyhq.com/lovable/3636e123-2f93-4605-adce-a89af78ed4fd | Lovable | Performance Marketer, Paid Social
 - [ ] https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45 | Supabase | Platform Engineer:Data
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004 | Figma | Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8245700 | Intercom | Forward Deployed Data Scientist
+- [ ] https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab | ElevenLabs | Full-Stack Engineer (Backend Leaning) - CreativeVoices
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443882008 | Anthropic | Applied AI Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002 | Databricks | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8824173002 | Databricks | Skills Systems Architect
+- [ ] https://sumup.com/careers/positions/8370114002?gh_jid=8370114002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://careers.hellofresh.com/global/en/job/8242732?gh_jid=8242732 | HelloFresh | [Refrigeration Compliance & Maintenance Specialist
+- [ ] https://jobs.ashbyhq.com/lovable/7ebba78c-4404-4e07-b783-c434a60e749a | Lovable | Data Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13 | Supabase | Software Engineer - Functions (Compute)
