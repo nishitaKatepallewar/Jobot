@@ -1067,3 +1067,11 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8242732?gh_jid=8242732 | HelloFresh | [Refrigeration Compliance & Maintenance Specialist
 - [ ] https://jobs.ashbyhq.com/lovable/7ebba78c-4404-4e07-b783-c434a60e749a | Lovable | Data Infrastructure Engineer
 - [ ] https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13 | Supabase | Software Engineer - Functions (Compute)
+
+- [ ] https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605 | Coinbase | Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94 | ElevenLabs | Fullstack Engineer (Backend Leaning) - Flows
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d | ElevenLabs | Fullstack Engineer (Frontend Leaning) - Studio
+- [ ] https://jobs.ashbyhq.com/elevenlabs/31a6f0f4-8e1d-4d77-9d00-026ed12213f2 | ElevenLabs | Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6111332004 | Vercel | Security Software Engineer, Detection & Response
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002 | Databricks | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4 | Supabase | Cloud Platform Engineer
