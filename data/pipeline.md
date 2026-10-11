@@ -1078,3 +1078,5 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8265719?gh_jid=8265719 | HelloFresh | Quality Control Associate (AM Shift)
 - [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer, Managed Postgres
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8878095002 | Databricks | Digital Native Account Executive, Thailand
