@@ -1080,3 +1080,6 @@
 - [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer, Managed Postgres
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8878095002 | Databricks | Digital Native Account Executive, Thailand
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8f79181f-192d-45d9-a8c3-ce3f533b7d7a | ElevenLabs | Growth Marketer- Reception.ai
+- [ ] https://sumup.com/careers/positions/8883422002?gh_jid=8883422002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e)
