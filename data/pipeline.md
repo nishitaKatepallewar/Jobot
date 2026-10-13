@@ -1083,3 +1083,23 @@
 
 - [ ] https://jobs.ashbyhq.com/elevenlabs/8f79181f-192d-45d9-a8c3-ce3f533b7d7a | ElevenLabs | Growth Marketer- Reception.ai
 - [ ] https://sumup.com/careers/positions/8883422002?gh_jid=8883422002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e)
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405 | Rubrik | Industrial Trainee
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2 | ElevenLabs | Full-Stack Engineer - Ads Engine
+- [ ] https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152 | ElevenLabs | Full-Stack Engineer - ElevenAPI
+- [ ] https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2 | ElevenLabs | Full-Stack Engineer - Enterprise
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89 | ElevenLabs | Full-Stack Engineer (Frontend-Leaning) - CreativeMusic
+- [ ] https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651 | ElevenLabs | Full-Stack Engineer - Productions
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e | ElevenLabs | Full-Stack Engineer (Backend-Leaning) - CoreMusic
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096 | ElevenLabs | Full-Stack Engineer - ElevenMusic
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4739203005 | Glean | AI Data Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Lab Automation)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450479008 | Anthropic | IT Systems Engineer, M&A
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5412272008 | Anthropic | Software Engineer, Observability & Profiling
+- [ ] https://job-boards.greenhouse.io/boomilp/jobs/6222601004 | Boomi | Presales Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8004218003?gh_jid=8004218003 | Celonis | Strategic Account Executive - Retail / CPG
+- [ ] https://careers.hellofresh.com/global/en/job/8275203?gh_jid=8275203 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8275170?gh_jid=8275170 | HelloFresh | Maintenance Technician III
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4644840101 | PhysicsX | Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/6046e277-1cb2-407b-ac47-3f64c0125b90 | Synthesia | Solutions Engineer - French Speaker 
+- [ ] https://jobs.ashbyhq.com/claylabs/ddc46515-89d2-4f98-a383-437dfd38b123 | Clay Labs | Solutions Engineer
