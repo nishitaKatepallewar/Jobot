@@ -1103,3 +1103,11 @@
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4644840101 | PhysicsX | Machine Learning Engineer
 - [ ] https://jobs.ashbyhq.com/synthesia/6046e277-1cb2-407b-ac47-3f64c0125b90 | Synthesia | Solutions Engineer - French Speaker 
 - [ ] https://jobs.ashbyhq.com/claylabs/ddc46515-89d2-4f98-a383-437dfd38b123 | Clay Labs | Solutions Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479 | Coinbase | Software Engineer, Enterprise Apps 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Payments Engineering
+- [ ] https://sumup.com/careers/positions/8887224002?gh_jid=8887224002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e)
+- [ ] https://jobs.ashbyhq.com/synthesia/5e0c7cf2-c47b-49bb-85fb-1a85068853c1 | Synthesia | Solutions Engineer - German Speaker
+- [ ] https://jobs.ashbyhq.com/legora/9a66506b-d584-4d7a-a64d-c284a3dc1b64 | Legora | Sales Associate - GTM 
+- [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | Supabase | Platform Engineer - Compute
