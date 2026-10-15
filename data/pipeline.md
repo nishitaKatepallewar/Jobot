@@ -1111,3 +1111,6 @@
 - [ ] https://jobs.ashbyhq.com/synthesia/5e0c7cf2-c47b-49bb-85fb-1a85068853c1 | Synthesia | Solutions Engineer - German Speaker
 - [ ] https://jobs.ashbyhq.com/legora/9a66506b-d584-4d7a-a64d-c284a3dc1b64 | Legora | Sales Associate - GTM 
 - [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | Supabase | Platform Engineer - Compute
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/969bbf7d-037c-4965-812e-442105ce58c1 | ElevenLabs | Developer Advocate
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002 | Databricks | Forward Deployed Engineering - Architect
