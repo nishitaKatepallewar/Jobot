@@ -1114,3 +1114,8 @@
 
 - [ ] https://jobs.ashbyhq.com/elevenlabs/969bbf7d-037c-4965-812e-442105ce58c1 | ElevenLabs | Developer Advocate
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002 | Databricks | Forward Deployed Engineering - Architect
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717574005 | Scale AI | GTM Business Operations Associate
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447368008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8032218003?gh_jid=8032218003 | Celonis | Enterprise Account Executive CPG / Retail / Manufacturing
+- [ ] https://careers.hellofresh.com/global/en/job/8282436?gh_jid=8282436 | HelloFresh | Quality Control Associate
