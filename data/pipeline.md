@@ -1119,3 +1119,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447368008 | Anthropic | Applied AI Architect, Partnerships
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8032218003?gh_jid=8032218003 | Celonis | Enterprise Account Executive CPG / Retail / Manufacturing
 - [ ] https://careers.hellofresh.com/global/en/job/8282436?gh_jid=8282436 | HelloFresh | Quality Control Associate
+
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736955005 | Razorpay | Associate Business Analyst 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002 | Databricks | Forward Deployed Engineer, FDE (L4)
+- [ ] https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b | Deepgram | Research Engineer, Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008 | Anthropic | Software Engineer, Memory & Search
