@@ -1124,3 +1124,10 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002 | Databricks | Forward Deployed Engineer, FDE (L4)
 - [ ] https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b | Deepgram | Research Engineer, Post-Training
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008 | Anthropic | Software Engineer, Memory & Search
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4745021005 | Scale AI | Infrastructure Software Engineer, Apps Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673995005 | Glean | Strategic Account Executive, Mumbai
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008 | Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003 | Celonis | AI and Value Transformation Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/8302193?gh_jid=8302193 | HelloFresh | Maintenance Technician II 
+- [ ] https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa | Palantir | Software Engineer, New Grad - Query Engines
