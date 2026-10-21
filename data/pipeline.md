@@ -1131,3 +1131,11 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003 | Celonis | AI and Value Transformation Consultant
 - [ ] https://careers.hellofresh.com/global/en/job/8302193?gh_jid=8302193 | HelloFresh | Maintenance Technician II 
 - [ ] https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa | Palantir | Software Engineer, New Grad - Query Engines
+
+- [ ] https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005 | Rubrik | Software Engineer Product Infra: Core Services
+- [ ] https://www.coinbase.com/careers/positions/8289787?gh_jid=8289787 | Coinbase | Complaints Analyst III
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95 | ElevenLabs | Safety Engineer (Backend Leaning)
+- [ ] https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252 | Sierra | Software Engineer, Agent (New Grad)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8010181003?gh_jid=8010181003 | Celonis | Applied AI Value Architect
+- [ ] https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297 | N26 | ICT GRC - Junior Associate
+- [ ] https://jobs.ashbyhq.com/legora/de7989b0-d39f-4559-9f87-66bc3fd0c8b2 | Legora | Financial Systems Engineer
