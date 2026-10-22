@@ -1139,3 +1139,12 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8010181003?gh_jid=8010181003 | Celonis | Applied AI Value Architect
 - [ ] https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297 | N26 | ICT GRC - Junior Associate
 - [ ] https://jobs.ashbyhq.com/legora/de7989b0-d39f-4559-9f87-66bc3fd0c8b2 | Legora | Financial Systems Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/7254275?gh_jid=7254275 | Coinbase | Complaints Analyst III
+- [ ] https://boards.greenhouse.io/figma/jobs/6227402004?gh_jid=6227402004 | Figma | Product Builder, AI Insights
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002 | Databricks | Strategic Core Account Executive - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8246438?gh_jid=8246438 | HelloFresh | Production Associate II
+- [ ] https://careers.hellofresh.com/global/en/job/8280899?gh_jid=8280899 | HelloFresh | Software Engineer - Marketing Automation (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8284429?gh_jid=8284429 | HelloFresh | Supply Chain Planner
+- [ ] https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | Supabase | Software Engineer - Turso
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4463390009 | PlanetScale | AI Developer Experience Engineer
