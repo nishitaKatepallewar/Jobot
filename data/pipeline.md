@@ -1148,3 +1148,11 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8284429?gh_jid=8284429 | HelloFresh | Supply Chain Planner
 - [ ] https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | Supabase | Software Engineer - Turso
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4463390009 | PlanetScale | AI Developer Experience Engineer
+
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/5013246101 | Speechmatics | Developer Relations Advocate
+- [ ] https://jobs.ashbyhq.com/sierra/e98b0f55-9665-4aaf-99a6-c61c622bf323 | Sierra | Enterprise Sales Engineer - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/fcbf5519-6bfc-4250-a171-669e5708b345 | Sierra | Enterprise Sales Engineer - Strategic, Retail
+- [ ] https://helsing.ai/jobs/5014019101?gh_jid=5014019101 | Helsing | Systems Engineer - Land
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016645003?gh_jid=8016645003 | Celonis | Applied AI Value Architect
+- [ ] https://jobs.ashbyhq.com/faculty/e10af3f1-9f1f-4d81-937d-1d940aa44b71 | Faculty | Machine Learning Engineer 
+- [ ] https://jobs.ashbyhq.com/workos/cff5a16f-fd1c-4b64-9b66-8a8321122375 | WorkOS | Infrastructure Engineer - SRE
