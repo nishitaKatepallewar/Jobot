@@ -1156,3 +1156,10 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8016645003?gh_jid=8016645003 | Celonis | Applied AI Value Architect
 - [ ] https://jobs.ashbyhq.com/faculty/e10af3f1-9f1f-4d81-937d-1d940aa44b71 | Faculty | Machine Learning Engineer 
 - [ ] https://jobs.ashbyhq.com/workos/cff5a16f-fd1c-4b64-9b66-8a8321122375 | WorkOS | Infrastructure Engineer - SRE
+
+- [ ] https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599 | Coinbase | Offensive Security Engineer, AI 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448366008 | Anthropic | Enterprise Account Executive - Manufacturing Industries, Taiwan
+- [ ] https://careers.hellofresh.com/global/en/job/8315990?gh_jid=8315990 | HelloFresh | Production Associate - AM Shift
+- [ ] https://careers.hellofresh.com/global/en/job/8315994?gh_jid=8315994 | HelloFresh | Production Associate - PM Shift
+- [ ] https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113 | Supabase | Software Engineer - Spark
+- [ ] https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381 | Spotify | Machine Learning Engineer - Subscriptions
