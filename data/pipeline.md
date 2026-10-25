@@ -1163,3 +1163,5 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8315994?gh_jid=8315994 | HelloFresh | Production Associate - PM Shift
 - [ ] https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113 | Supabase | Software Engineer - Spark
 - [ ] https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381 | Spotify | Machine Learning Engineer - Subscriptions
+
+- [ ] https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520 | Supabase | Software Engineer - Storage
